@@ -1,0 +1,65 @@
+.dailyPicture-content{
+    a{
+        color: #eee;
+    }
+
+    .day-header{
+        font-size: 1.3em;
+        margin-bottom: 13px;
+    }
+
+    .nodata-header{
+        font-size: 1.9em;
+        padding: 20px;
+        width: calc(100% - 40px);
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+        color: #eee;
+        font-family: "Oswald",sans-serif;
+    }
+    .mediaName-header{
+        font-size: 1.4em;
+        margin-bottom: 7px;
+    }
+
+    .image-container{
+        width: 70%;
+        height: auto;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .credits{
+        font-size: 1.2em;
+        a{
+            color: #eee;  
+        }
+        margin-bottom: 20px;
+    }
+    .explanation-section{
+        width: calc(90% - 10px);
+        padding: 5px;
+        font-size: 1.4em;
+        font-family: "Oswald",sans-serif;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        letter-spacing: 0.03em;
+        .explanation{
+            font-weight: bold;
+        }
+        a{
+            color: #eee;
+            font-size: 1.01em;
+            letter-spacing: 0.07em;
+        }
+        margin-bottom: 80px;
+    }
+    .about{
+        font-size: 1.2em;
+        margin-bottom: 20px;
+    }
+}
