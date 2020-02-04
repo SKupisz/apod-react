@@ -1,0 +1,55 @@
+@media (max-width: 860px){
+    .dailyPicture-content{
+        .explanation-section,.mediaName-header{
+            font-size: 1.2em;
+        }
+        .about{
+            font-size: 1em;
+        }
+    }
+}
+@media (max-width: 675px){
+    .dailyPicture-content{
+        .explanation-section,.mediaName-header{
+            font-size: 1em;
+        }
+        .explanation-section{
+            margin-bottom: 40px;
+        }
+        .about{
+            font-size: 0.8em;
+        }
+        .day-header,.credits{
+            font-size: 1.1em;
+        }
+    }
+}
+@media (max-width: 550px){
+    .dailyPicture-content{
+        .day-header,.credits{
+            font-size: 1em;
+        }
+        .explanation-section,.mediaName-header{
+            font-size: 0.89em;
+        }
+    }
+}
+@media (max-width: 410px){
+    .dailyPicture-content{
+        .day-header,.credits{
+            font-size: 0.89em;
+        }
+        .explanation-section,.mediaName-header{
+            font-size: 0.78em;
+        }
+        .explanation-section{
+            width: calc(100% - 10px);
+        }
+        .about{
+            font-size: 0.7em;
+            width: 90%;
+            margin-left: auto;
+            margin-right: auto;
+        }
+    }
+}
