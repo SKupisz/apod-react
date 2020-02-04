@@ -1,3 +1,9 @@
+@media (max-width: 1000px){
+    .iframe-container{
+        width: 800px;
+        height: 450px;
+    }
+}
 @media (max-width: 860px){
     .dailyPicture-content{
         .explanation-section,.mediaName-header{
@@ -6,6 +12,10 @@
         .about{
             font-size: 1em;
         }
+    }
+    .iframe-container{
+        width: 635px;
+        height: 357px;
     }
 }
 @media (max-width: 675px){
@@ -23,6 +33,10 @@
             font-size: 1.1em;
         }
     }
+    .iframe-container{
+        width: 510px;
+        height: 287px;
+    }
 }
 @media (max-width: 550px){
     .dailyPicture-content{
@@ -32,6 +46,10 @@
         .explanation-section,.mediaName-header{
             font-size: 0.89em;
         }
+    }
+    .iframe-container{
+        width: 370px;
+        height: 208px;
     }
 }
 @media (max-width: 410px){
@@ -51,5 +69,10 @@
             margin-left: auto;
             margin-right: auto;
         }
+    }
+    .iframe-container{
+        width: 98%;
+        height: auto;
+        
     }
 }

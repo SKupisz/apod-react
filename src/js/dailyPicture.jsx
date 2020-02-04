@@ -79,7 +79,7 @@ export default class DailyPicture extends React.Component{
                         <div className="date-info"><Link to = "/">Discover the cosmos!</Link> Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.</div>
                         <section className="media-section">
                             <header className="day-header">{this.dayForSearch}</header>
-                            <iframe src={base.link} width = "960px" height = "540px" className = "media-container"></iframe>
+                            <iframe src={base.link} width = "960px" height = "540px" className = "media-container iframe-container"></iframe>
                             <section className="name">
                                 <header className="mediaName-header">{base.title}</header>
                                 <div className="credits">Image credits: {ReactHtmlParser(imageComponent)}</div>
@@ -110,7 +110,7 @@ export default class DailyPicture extends React.Component{
                     <div className="date-info"><Link to = "/">Discover the cosmos!</Link> Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.</div>
                     <section className="media-section">
                         <header className="day-header">{this.dayForSearch}</header>
-                        <img src={base.link} className = "image-container"/>
+                        {base.link ? <img src={base.link} className = "image-container"/> : "Loading..."}
                         <section className="name">
                             <header className="mediaName-header">{base.title}</header>
                             <div className="credits">Image credits: {ReactHtmlParser(imageComponent)}</div>
