@@ -1,0 +1,84 @@
+@media (max-width: 860px){
+    .welcome-header{
+        font-size: 2.3em;
+    }
+    .navigation{
+        .nav-item{
+            font-size: 1.4em;
+        }
+    }
+    .date-info{
+        font-size: 1em;
+    }
+    .row{
+        font-size: 1.4em;
+    }
+}
+@media (max-width: 675px){
+    .welcome-header{
+        font-size: 1.9em;
+    }
+    .nasa-logo{
+        width: 40px;
+    }
+    .navigation{
+        .nav-item{
+            font-size: 1.1em;
+        }
+    }
+    .date-info{
+        font-size: 0.8em;
+    }
+    .row{
+        font-size: 1.1em;
+    }
+}
+@media (max-width: 550px){
+    .welcome-header{
+        font-size: 1.5em;
+        margin-bottom: 20px;
+    }
+    .nasa-logo{
+        width: 30px;
+    }
+}
+@media (max-width: 460px){
+    .welcome-header{
+        font-size: 1.3em;
+    }
+    .navigation{
+        .nav-item{
+            display: block;
+            width: calc(90% - 40px);
+            margin-left: auto;
+            margin-right: auto;
+            cursor: pointer;
+            margin-bottom: 10px;
+            margin-top: 10px;
+            font-size: 1em;
+            padding-top: 10px;
+            padding-bottom: 10px;
+        }
+        a{
+            text-decoration: none;
+        }
+    }
+    .row{
+        font-size: 1em;
+    }
+}
+@media (max-width: 410px){
+    .welcome-header{
+        font-size: 1.1em;
+    }
+    .row{
+        font-size: 0.9em;
+        width: calc(90% - 20px);
+    }
+    .navigation{
+        margin-bottom: 20px;
+    }
+    .date-info{
+        margin-bottom: 30px;
+    }   
+}

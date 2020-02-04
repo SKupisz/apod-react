@@ -1,4 +1,14 @@
 {
+    "2020/02/04" :{
+        "title": "A Sunset Night Sky over the Grand Canyon",
+        "credit": {
+            "subjects": ["Robert Q. Fugate"],
+            "links": ["https://www.rqfphoto.com/"]
+        },
+        "link": "https://apod.nasa.gov/apod/image/2002/GrandCanyonSunset_Fugate_6586.jpg",
+        "linkType": "image",
+        "explanation": "<label class = 'explanation'>Explanation:</label> Seeing mountain peaks glow red from <a href='https://www.youtube.com/watch?v=jlpzAvQ8t8s'>inside the Grand Canyon</a> was one of the most incredible sunset experiences of this amateur photographer's life. They appeared even more incredible later, when digitally combined with an <a href='ap170522.html'>exposure of the night sky</a> -- taken by the same camera and from the same location -- an hour later. The two images were taken last August from the 220 Mile Canyon campsite on the <a href='https://www.youtube.com/watch?v=iAfa8LKRVx8'>Colorado River</a>, <a href='https://en.wikipedia.org/wiki/Colorado'>Colorado</a>, <a href='https://www.cia.gov/library/publications/the-world-factbook/geos/us.html'>USA</a>. The peaks glow red because they were lit by an <a href='ap980526.html'>usually red sunset</a>. Later, high above, the band of the <a href='https://solarsystem.nasa.gov/resources/285/the-milky-way-galaxy/'>Milky Way Galaxy</a> angled dramatically down, filled with stars, nebula, and dark clouds of dust. To the Milky Way's left is the planet <a href='https://solarsystem.nasa.gov/planets/saturn/overview/'>Saturn</a>, while to the right is the brighter <a href='ap200129.html'>Jupiter</a>. Although <a href='ap190908.html'>Jupiter</a> and <a href='ap170829.html'>Saturn</a> are now hard to see, <a href='https://solarsystem.nasa.gov/planets/venus/in-depth/'>Venus</a> will be <a href='https://solarsystem.nasa.gov/whats-up-skywatching-tips-from-nasa/'>visible</a> and quite bright to the west in clear skies, just after sunset, for the next two months."
+    },
     "2020/02/03" :{
         "title": "Solar Granules at Record High Resolution",
         "credit": {

@@ -11,33 +11,46 @@ function getAllSlashes(dateToCheck){
     }
     return counter;
 }
-function getTodaysDate(){
+function getTodaysDate(format){
     let today = new Date();
     let dd = String(today.getDate()).padStart(2, '0');
     let mm = String(today.getMonth() + 1).padStart(2, '0');
     let yyyy = today.getFullYear();
-    let anwser = yyyy+"/"+mm+"/"+dd;
+    let anwser = yyyy+format+mm+format+dd;
     return anwser;
 }
 
 export default class DailyPicture extends React.Component{
+    state = {
+        nasaData: {}
+    };
     constructor(props){
         super(props);
         this.loadBasicData = this.loadBasicData.bind(this);
+        this.getNasaData = this.getNasaData.bind(this);
+        
         this.base = require("../data/main.json");
         this.exists = 0;
         this.dayForSearch = "";
         this.dailyData = "";
+        this.nasaData = [];
+    }
+    getNasaData(){
+        /*let forGetNews = getTodaysDate("-");
+        fetch("https://randomuser.me/api/?format=json&results=10")
+        .then(res => res.json())
+        .then(json => this.setState({ nasaData: json.results }));
+        console.log(this.state.nasaData);*/
     }
     loadBasicData(){
         let thisDate = window.location.pathname;
         thisDate = thisDate.substring(14);
         if(thisDate.length < 10){
-            thisDate = getTodaysDate();
+            thisDate = getTodaysDate("/");
             window.location.pathname = "/dailyPicture/"+thisDate;
         }
         else if(getAllSlashes(thisDate) != 2){
-            thisDate = getTodaysDate();
+            thisDate = getTodaysDate("/");
         }
         else{
             if(this.base[thisDate]){
@@ -49,6 +62,7 @@ export default class DailyPicture extends React.Component{
     }
     render(){
         this.loadBasicData();
+        this.getNasaData();
         if(this.exists == 1){
             let base = this.dailyData;
             let imageComponent = "";

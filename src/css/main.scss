@@ -3,41 +3,7 @@
 @import "./subcomponents/row";
 @import "./subcomponents/navigation";
 
-@import "daily";
+@import "./main/daily";
+@import "./main/welcomeSite";
 
-body{
-    background: #16161D;
-}
-
-.main-content{
-    width: calc(100% - 6px);
-    padding-left: 3px;
-    padding-right: 3px;
-    position: absolute;
-    color: #eee;
-    text-shadow: 2px 2px 10px #111;  
-}
-.nasa-logo{
-    margin-right: 10px;
-    width: 50px;
-    height: auto;
-}
-.welcome-header{
-    width: calc(90% - 10px);
-    padding: 5px;
-    margin-left: auto;
-    margin-right: auto;
-    font-size: 3em;
-    font-family: "Oswald",sans-serif;
-    margin-bottom: 40px;
-    margin-top: 13px;
-}
-.date-info{
-    width: calc(80% - 10px);
-    padding: 5px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    font-size: 1.09em;
-    margin-bottom: 23px;
-}
+@import "./rwd/welcomeSite";
