@@ -67,7 +67,13 @@ export default class DailyPicture extends React.Component{
             let base = this.dailyData;
             let imageComponent = "";
             for(let i = 0 ; i < base.credit.subjects.length; i++){
-                imageComponent+="<a href = '"+base.credit.links[i]+"'>"+base.credit.subjects[i]+"</a>";
+                if(i < base.credit.links.length){
+                    imageComponent+="<a href = '"+base.credit.links[i]+"'>"+base.credit.subjects[i]+"</a>";
+                }
+                else{
+                    imageComponent+=base.credit.subjects[i];
+                }
+                
                 if(i != base.credit.subjects.length -1){
                     imageComponent+=", ";
                 }
