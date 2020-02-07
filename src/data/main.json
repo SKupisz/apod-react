@@ -1,4 +1,14 @@
 {
+    "2020/02/07" :{
+        "title": "NGC 7331 Close Up",
+        "credit": {
+            "subjects": ["ESA/Hubble & NASA/D. Milisavljevic (Purdue University)"],
+            "links": []
+        },
+        "link": "https://apod.nasa.gov/apod/image/2002/potw1805b_ngc7331.jpg",
+        "linkType": "image",
+        "explanation": "<label class = 'explanation'>Explanation:</label> Big, beautiful spiral galaxy <a href='http://messier.seds.org/xtra/ngc/n7331.html'>NGC 7331</a> is often touted as an analog to our own <a href='ap080606.html'>Milky Way</a>. About 50 million light-years distant in the northern constellation <a href='http://hawastsoc.org/deepsky/peg/index.html'>Pegasus</a>, NGC 7331 was recognized early on as <a href='http://www.messier.seds.org/xtra/Bios/rosse.html'>a spiral nebula</a> and is actually one of the brighter galaxies <i>not</i> included in Charles Messier's <a href='http://messier.seds.org/xtra/history/m-cat.html'>famous</a> 18th century catalog. Since the galaxy's disk <a href='ap040701.html'>is inclined</a> to our line-of-sight, long telescopic exposures often result in an image that evokes a strong sense of depth. In this <a href='http://spacetelescope.org/images/potw1805a/'>Hubble Space Telescope close-up</a>, the galaxy's magnificent spiral arms feature dark obscuring dust lanes, bright bluish clusters of massive young stars, and the telltale reddish glow of active star forming regions. The bright yellowish central regions harbor populations of older, cooler stars. <a href='https://svs.gsfc.nasa.gov/11149'>Like the Milky Way</a>, a supermassive black hole lies at the core of spiral galaxy NGC 7331."
+    },
     "2020/02/06" :{
         "title": "Southern Moonscape",
         "credit": {
