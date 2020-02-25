@@ -1,6 +1,6 @@
 {
     "2020/02/25" :{
-        "title": "Moon Corona, Halo, and Arcs over Manitoba",
+        "title": "Jupiter's Magnetic Field from Juno",
         "credit": {
             "subjects": ["NASA","JPL-Caltech","Harvard U.","K. Moore et al."],
             "links": ["https://nasa.gov","https://jpl.nasa.gov","https://eps.harvard.edu/",
@@ -694,5 +694,54 @@
         "link": "https://apod.nasa.gov/apod/image/1912/N2616c_600h.jpg",
         "linkType": "image",
         "explanation": "<label class = 'explanation'>Explanation:</label> Shadows grow long near sunset in this wide panoramic view from the <a href='https://mars.nasa.gov/msl/home/'>Curiosity rover on Mars</a>. Made with Curiosity's navcam, the scene covers about 200 degrees from north through east to south (left to right), stitched together from frames taken by the Mars rover on sol 2616. <a href='https://mars.nasa.gov/resources/24734/curiosity-rovers-location-for-sol-2616/?site=msl'>That's just Earth date December 16</a>. Curiosity is perched on top of a plateau <a href='https://mars.nasa.gov/msl/mission-updates/sols-2615-2617-keeping-up-the-pace-on-the-western-butte/'>on Western Butte</a>. The distant northern rim of Gale crater is visible along the left. Near center is <a href='https://mars.nasa.gov/msl/mission-updates/8542/sols-2577-2578-en-route-around-central-butte/'>Central Butte, already visited</a> by Curiosity. On the right, the shadow of the rover seems to stretch toward the base of Aeolis Mons (Mount Sharp), <a href='https://www.jpl.nasa.gov/news/news.php?feature=7400'>a future destination</a>. The monochrome navcam frames have been colorized to approximate the colors of the late martian afternoon."
+    },
+    "2019/12/19" :{
+        "title": "Apollo 17's Moonship",
+        "credit": {
+            "subjects": ["Apollo 17","NASA","(Image Reprocessing: Andy Saunders)"],
+            "links": ["https://nssdc.gsfc.nasa.gov/planetary/lunar/apollo17info.html",
+            "https://nasa.gov","https://twitter.com/andysaunders_1"]
+        },
+        "link": "https://apod.nasa.gov/apod/image/1912/AS17-149-22859-2v2SmlWmk1024.jpg",
+        "linkType": "image",
+        "explanation": "<label class = 'explanation'>Explanation:</label> Awkward and angular looking, Apollo 17's <a href='https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1972-096C'>lunar module Challenger</a> was designed for flight in the near vacuum of space.    Digitally enhanced and reprocessed, this picture taken from Apollo 17's <a href='https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1972-096A'>command module America</A> shows Challenger's ascent stage in lunar orbit.  Small reaction control thrusters are at the sides of the moonship with the bell of the ascent rocket engine underneath.  The hatch allowing <a href='https://www.hq.nasa.gov/alsj/a17/a17.html'>access to the lunar surface</a> is seen at the front, with a round radar antenna at the top.  Mission commander Gene Cernan is clearly visible through the triangular window.  This spaceship performed gracefully, landing on the Moon and returning the Apollo astronauts to the orbiting command module in December of 1972.  <a href='https://www.nasa.gov/mission_pages/LRO/multimedia/lroimages/lroc_20091028_apollo.html'>So where is Challenger now</a>?  Its descent stage remains at the Apollo 17 landing site in the <a href='ap171230.html'>Taurus-Littrow valley</a>.  The ascent stage pictured was intentionally crashed nearby after being jettisoned from the command module prior to the astronauts' return to planet Earth.  Apollo 17's mission came to an end <a href='https://www.nasa.gov/centers/marshall/history/this-week-in-nasa-history-apollo-17-splashes-down-dec-19-1972.html'>47 years ago today</a>.  It was the sixth and last time <a href='https://www.nasa.gov/mission_pages/apollo/apollo-17'>astronauts landed on the Moon</a>."
+    },
+    "2019/12/18" :{
+        "title": "A Hotspot Map of Neutron Star J0030's Surface",
+        "credit": {
+            "subjects": ["NASA","NICER","GSFC", "CI lab"],
+            "links": ["https://nasa.gov",
+                "https://www.nasa.gov/content/about-nicer",
+                "https://www.nasa.gov/goddard","https://svs.gsfc.nasa.gov/cilab/index.html"]
+        },
+        "link": "https://apod.nasa.gov/apod/image/1912/J0030_NICER_1024.jpg",
+        "linkType": "image",
+        "explanation": "<label class = 'explanation'>Explanation:</label> What do neutron stars look like?  Previously these  <a href='https://media.ligo.northwestern.edu/gallery/neutron-star-over-chicago' >city-sized stars</a> were too small and too far away to resolve.  Recently, however, the  <a href='https://www.nasa.gov/feature/goddard/2019/nasa-s-nicer-delivers-best-ever-pulsar-measurements-1st-surface-map'>first maps</a> of the locations and sizes of  <a href='https://phys.org/news/2018-04-magnetic-hot-neutron-stars-survive.html' >hotspots</a> on a neutron star's surface have been  made by carefully modeling how the rapid spin makes the star's  <a href='https://science.nasa.gov/ems/11_xrays'>X-ray</a>  brightness rise and fall.   Based on a leading model, an  <a href='https://svs.gsfc.nasa.gov/13240'>illustrative map</a> of  <a href='https://en.wikipedia.org/wiki/Pulsar'>pulsar</a>  <a href='https://arxiv.org/abs/0904.4377'>J0030+0451</a>'s hotspots is pictured,  with the rest of the star's surface filled in with a false patchy blue.   <a href='https://www.forbes.com/sites/startswithabang/2019/12/16/nasas-nicer-mission-reveals-an-unexpected-neutron-star-surprise/'>J0030</a>  spins once every 0.0049 seconds and is located about 1000  <a href='https://starchild.gsfc.nasa.gov/docs/StarChild/questions/question19.html' >light years</a> away.  <a href='https://cms.iopscience.org/c5dfe599-1b5b-11ea-8ae4-b3312b4ab81c/J0030_Model_Side-by-Side_.gif'>The map</a> was computed from data taken by NASA's Neutron star Interior Composition ExploreR  (<a href='https://www.nasa.gov/content/about-nicer'>NICER</a>)  X-ray telescope attached to the  <a href='ap151109.html'>International Space Station</a>.   The  <a href='https://ui.adsabs.harvard.edu/abs/2019ApJ...887L..24M/abstract' >computed locations</a> of  <a href='https://ui.adsabs.harvard.edu/abs/2019ApJ...887L..21R/abstract' >these hotspots</a> is surprising and not well understood.  Because the gravitational  <a href='https://ui.adsabs.harvard.edu/abs/1986ApJ...300..203F/abstract' >lensing effect of neutron stars</a> is so strong, J0300  <a href='https://apod.nasa.gov/htmltest/rjn_bht.html'>displays more than half</a>  of its surface toward the Earth.   <a href='https://images.all-free-download.com/images/graphiclarge/cat_staring_at_fish_in_jar_596232.jpg' >Studying</a> the  <a href='https://ui.adsabs.harvard.edu/abs/2019ApJ...887L..26B/abstract' >appearance of pulsars like J0030</a>  allows accurate estimates of the  <a href='ap180930.html'>neutron star</a>'s mass, radius, and the  <a href='https://iopscience.iop.org/journal/2041-8205/page/Focus_on_NICER_Constraints_on_the_Dense_Matter_Equation_of_State' >internal physics</a> that keeps the star from imploding into a  <a href='http://cosmology.berkeley.edu/Education/BHfaq.html'>black hole</a>. "
+    },
+    "2019/12/17" :{
+        "title": "The Horsehead Nebula",
+        "credit": {
+            "subjects": ["Mark Hanson","Martin Pugh","SSRO","PROMPT","CTIO","NSF"],
+            "links": ["https://www.hansonastronomy.com/bio",
+            "https://www.martinpughastrophotography.space/","http://www.starshadows.com/",
+            "https://en.wikipedia.org/wiki/PROMPT_Telescopes","http://www.ctio.noao.edu/noao/",
+        "https://www.nsf.gov/"]
+        },
+        "link": "https://apod.nasa.gov/apod/image/1912/Horsehead_Hanson_960.jpg",
+        "linkType": "image",
+        "explanation": "<label class = 'explanation'>Explanation:</label> <a href='ap080313.html'>Sculpted by</a> stellar winds and radiation, a magnificent interstellar dust cloud by chance has assumed this  <a href='https://en.wikipedia.org/wiki/Seahorse'>recognizable shape</a>.   Fittingly named the <a href='http://www.noao.edu/image_gallery/html/im0057.html'>Horsehead Nebula</a>, it is some 1,500 light-years  <a href='https://www.youtube.com/watch?v=hgTrLozRj40'>distant</a>, embedded in the vast <a href=' ap070125.html'>Orion cloud</a> complex.  About five light-years 'tall', the dark cloud is cataloged as  <a href='http://messier.seds.org/xtra/ngc/b33.html' >Barnard 33</a>  and is visible only because its <a href='http://hubblesite.org/newscenter/archive/releases/ 2001/12/'>obscuring dust is silhouetted</a> against the glowing red emission nebula IC 434.   <a href='ap070218.html'>Stars are forming</a> within the dark cloud.  <a href='ap160608.html'>Contrasting</a> blue reflection nebula NGC 2023, surrounding a hot, young  <a href='https://science.nasa.gov/astrophysics/focus-areas/how-do-stars-form-and-evolve' >star</a>, is at the lower left of  <a href='image/1912/Horsehead_Hanson_2604.jpg'>the full image</a>.    The featured gorgeous <a href='https://www.hansonastronomy.com/ic-434ngc2023'>color image</a> combines both  <a href='https://www.thepoke.co.uk/wp-content/uploads/2016/09/pets-vs-furniture-cat-squeezed-in-couch.jpg'>narrowband</a> and  <a href='https://s-media-cache-ak0.pinimg.com/736x/e1/6c/e4/e16ce47242406ac2d278f10619282d13.jpg' >broadband</a> images recorded using several different telescopes.  "
+    },
+    "2019/12/16" :{
+        "title": "The Magnetic Fields of Spiral Galaxy M77",
+        "credit": {
+            "subjects": ["NASA","SOFIA","HAWC+","JPL-Caltech","Roma Tre. U","ESA","NuSTAR","SDSS"],
+            "links": ["https://nasa.gov","https://www.nasa.gov/mission_pages/SOFIA/overview/index.html",
+            "https://www.nasa.gov/ames/image-feature/one-of-a-kind-camera-added-to-sofia","https://jpl.nasa.gov",
+            "http://www.uniroma3.it/","https://esa.int","https://www.nasa.gov/mission_pages/hubble/story/index.html",
+            "https://www.nustar.caltech.edu/page/about","https://www.sdss.org/"]
+        },
+        "link": "https://apod.nasa.gov/apod/image/1912/M77Bfield_NASA_960.jpg",
+        "linkType": "image",
+        "explanation": "<label class = 'explanation'>Explanation:</label> Can magnetic fields help tell us how spiral galaxies form and evolve?   To find out, the  <a href='https://www.nasa.gov/ames/image-feature/one-of-a-kind-camera-added-to-sofia' >HAWC+ instrument</a> on NASA's airborne (<a href= 'https://www.nasa.gov/sites/default/files/thumbnails/image/sofiaoversierra.jpg' >747</a>)  <a href='https://www.sofia.usra.edu/multimedia/about-sofia'>SOFIA observatory</a> observed nearby <a href='ap130510.html'>spiral galaxy M77</a>.  <a href='https://www.nasa.gov/ames/image-feature/one-of-a-kind-camera-added-to-sofia' >HAWC+</a> maps magnetism by observing  <a href='https://en.wikipedia.org/wiki/Polarization_(waves)'>polarized</a>  <a href='https://science.nasa.gov/ems/07_infraredwaves'>infrared</a>  light emitted by elongated dust grains rotating in alignment with the local  <a href='https://www-istp.gsfc.nasa.gov/Education/Imagnet.html'>magnetic field</a>.   The HAWC+  <a href='https://arxiv.org/abs/1907.06648'>image shows</a>  that magnetic fields do appear to trace the spiral arms in the inner regions of  <a href='https://en.wikipedia.org/wiki/Messier_77'>M77</a>, arms that likely highlight density waves in the inflowing gas, dust and stars  <a href='https://arxiv.org/abs/1311.2609'>caused by the gravity</a>  of the galaxy's oval shape.  The <a href='https://www.nasa.gov/feature/how-to-shape-a-spiral-galaxy' >featured</a> picture  <a href='https://www.flickr.com/photos/dragonden/2214149648/'>superposes</a>  the HAWC+ image over diffuse  <a href='https://science.nasa.gov/ems/11_xrays'>X-ray</a>  emission mapped by NASA's  <a href='https://www.nustar.caltech.edu/page/about'>NuSTAR</a> satellite and  <a href='https://science.nasa.gov/ems/09_visiblelight'>visible light</a>  images taken by  <a href='https://www.nasa.gov/content/about-the-hubble-story'>Hubble</a>  and the  <a href='https://www.sdss.org/surveys/'>SDSS</a>.  <a href='ap061207.html'>M77</a> is located about 47 million  <a href='https://spaceplace.nasa.gov/light-year/en/'>light years</a>  away toward the constellation of the  <a href='https://en.wikipedia.org/wiki/Cetus_(mythology)'>Sea Monster</a>  (<a href='https://en.wikipedia.org/wiki/Cetus'>Cetus</a>)."
     }
 }
