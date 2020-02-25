@@ -1,4 +1,15 @@
 {
+    "2020/02/25" :{
+        "title": "Moon Corona, Halo, and Arcs over Manitoba",
+        "credit": {
+            "subjects": ["NASA","JPL-Caltech","Harvard U.","K. Moore et al."],
+            "links": ["https://nasa.gov","https://jpl.nasa.gov","https://eps.harvard.edu/",
+            "https://scholar.harvard.edu/planets/home"]
+        },
+        "link": "https://www.youtube.com/embed/-N7nRh5v1Iw?rel=0",
+        "linkType": "iframe",
+        "explanation": "<label class = 'explanation'>Explanation:</label> How similar is Jupiter's magnetic field to Earth's? NASA's robotic <a href='https://www.nasa.gov/mission_pages/juno/spacecraft/index.html' >Juno spacecraft</a> has found that Jupiter's magnetic field is <a href='https://www.pbs.org/wgbh/nova/article/jupiter-wandering-magnetic-field/' >surprisingly complex</a>, so that the <a href='https://solarsystem.nasa.gov/planets/jupiter/overview/' >Jovian world</a> does not have single magnetic poles like our <a href='https://solarsystem.nasa.gov/planets/earth/overview/'>Earth</a>. A snapshot of <a href='https://en.wikipedia.org/wiki/Magnetosphere_of_Jupiter' >Jupiter's magnetic field</a> at one moment in time, as animated from Juno data, appears in the <a href='https://www.jpl.nasa.gov/spaceimages/details.php?id=PIA23229' >featured video</a>. Red and blue colors depict <a href='ap190908.html'>cloud-top</a> regions of strong positive (south) and negative (north) magnetic fields, respectively. Surrounding the planet are imagined lines of constant <a href='https://en.wikipedia.org/wiki/Magnetic_field'>magnetic field</a> strength. The first sequence of the animated video starts off by showing what appears to be a relatively <a href='https://en.wikipedia.org/wiki/Magnetic_dipole'>normal dipole field</a>, but soon a <a href='ap160406.html'>magnetic region</a> now known as the Great Blue Spot rotates into view, which is not directly aligned with <a href='ap100124.html'>Jupiter's rotation</a> poles. Further, in the second sequence, the <a href='https://www.youtube.com/watch?v=-N7nRh5v1Iw'>illustrative animation</a> takes us over one of Jupiter's spin poles where red magnetic hotspots are revealed to be extended and sometimes even annular. A better understanding of <a href='https://www.nasa.gov/feature/jpl/nasas-juno-finds-changes-in-jupiters-magnetic-field'>Jupiter's magnetic field</a> may give clues toward a better understanding of <a href='ap021125.html'>Earth</a>'s <a href='https://i.pinimg.com/originals/70/ce/c3/70cec30919aefe50ada3bd8e0e6239e6.jpg' >enigmatic</a> planetary <a href='https://www.nasa.gov/sites/default/files/thumbnails/image/geomagnetic-field-orig_full.jpg'>magnetism</a>."
+    },
     "2020/02/24" :{
         "title": "Moon Corona, Halo, and Arcs over Manitoba",
         "credit": {
