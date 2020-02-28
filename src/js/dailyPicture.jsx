@@ -66,18 +66,24 @@ export default class DailyPicture extends React.Component{
         if(this.exists == 1){
             let base = this.dailyData;
             let imageComponent = "";
-            for(let i = 0 ; i < base.credit.subjects.length; i++){
-                if(i < base.credit.links.length){
-                    imageComponent+="<a href = '"+base.credit.links[i]+"'>"+base.credit.subjects[i]+"</a>";
-                }
-                else{
-                    imageComponent+=base.credit.subjects[i];
-                }
-                
-                if(i != base.credit.subjects.length -1){
-                    imageComponent+=", ";
+            if(base.credit.subjects.length > 0){
+                for(let i = 0 ; i < base.credit.subjects.length; i++){
+                    if(i < base.credit.links.length){
+                        imageComponent+="<a href = '"+base.credit.links[i]+"'>"+base.credit.subjects[i]+"</a>";
+                    }
+                    else{
+                        imageComponent+=base.credit.subjects[i];
+                    }
+                    
+                    if(i != base.credit.subjects.length -1){
+                        imageComponent+=", ";
+                    }
                 }
             }
+            else{
+                imageComponent = base.credit.altLinks;
+            }
+
             if(base.linkType == "iframe"){
                 return(
                     <section className="dailyPicture-content main-content">
