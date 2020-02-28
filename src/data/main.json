@@ -1068,7 +1068,7 @@
            "links": [],
        "altLinks": "<a href='https://www.nasa.gov/'>NASA</a>,  <a href='https://www.jhuapl.edu/'>JHU APL</a>,  <a href='https://www.swri.org/'>SwRI</a>  "
        },
-       "link": "https://apod.nasa.gov/apod/https://www.youtube.com/embed/_IQBSZsqjkU?rel=0",
+       "link": "https://www.youtube.com/embed/_IQBSZsqjkU?rel=0",
        "linkType": "iframe",
        "explanation": "<label class = 'explanation'>Explanation:</label> What would it look like to pass asteroid Arrokoth?  The robotic  <a href='https://solarsystem.nasa.gov/missions/new-horizons/in-depth/' >New Horizons spacecraft</a> zoomed past Arrokoth in January,  3.5 years after the spacecraft passed  <a href='ap190910.html'>Pluto</a>.   If this object's name  <a href='https://www.healthnewsreview.org/wp-content/uploads/2012/07/confused-dog-400.jpg'>doesn't sound familiar</a>,  that may be because the distant, double-lobed,  <a href='https://solarsystem.nasa.gov/solar-system/kuiper-belt/in-depth/' >Kuiper-belt object</a> was unofficially dubbed Ultima Thule until recently  <a href='https://www.nasa.gov/feature/far-far-away-in-the-sky-new-horizons-kuiper-belt-flyby-object-officially-named-arrokoth'>receiving its official</a> name:  <a href='https://en.wikipedia.org/wiki/486958_Arrokoth'>486958 Arrokoth</a>.   The  <a href='http://pluto.jhuapl.edu/News-Center/Press-Conferences/index.php?page=2019-03-18'>featured black and white video</a>  animates images of Arrokoth taken by New Horizons at  <a href='ap190104.html'>different angles</a> as it zoomed by.   The video clearly shows  <a href='ap190522.html'>Arrokoth's two lobes</a>, and even hints that the larger lobe is significantly flattened.   <a href='https://en.wikipedia.org/wiki/New_Horizons'>New Horizons</a> found that Arrokoth is different from any known asteroid in the  inner Solar System and is likely composed of two joined  <a href='https://en.wikipedia.org/wiki/Planetesimal'>planetesimal</a>s -- the  <a href='https://www.youtube.com/watch?v=Jm1Invdzybs'>building blocks of planets</a>  as they existed billions of years ago.  <a href='http://pluto.jhuapl.edu/Mission/2019-Onward.php' >New Horizons continues</a> to speed out of our  <a href='https://solarsystem.nasa.gov/solar-system/our-solar-system/in-depth/' >Solar System</a> gaining about three additional  <a href='https://en.wikipedia.org/wiki/Astronomical_unit' >Earth-Sun separations</a> every year.    "
     },
@@ -1170,6 +1170,435 @@
        "link": "https://apod.nasa.gov/apod/image/1911/s67-50903_saturnVlaunch1024.jpg",
        "linkType": "image",
        "explanation": "<label class = 'explanation'>Explanation:</label>  On May 25, 1961 U.S. president <a href='http://history.nasa.gov/moondec.html'>John Kennedy announced</a> the goal of landing astronauts on the Moon by the end of the decade.  By November 9, 1967 <a href='https://www.nasa.gov/centers/marshall/history/this-week-in-nasa-history-first-launch-of-saturn-v-nov-9-1967.html'>this Saturn V rocket</a> was ready for launch and the first full test of its capabilities on the <a href='https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1967-113A'>Apollo 4</a> mission.  Its development directed by rocket pioneer Wernher Von Braun, the three stage <a href='http://www.hq.nasa.gov/office/pao/History/SP-350/ch-3-1.html'>Saturn V stood</a> over 36 stories tall.  It had a cluster of five first stage engines fueled by liquid oxygen and kerosene which together were capable of producing <a href='https://en.wikipedia.org/wiki/Saturn_V'>7.9 million pounds of thrust</a>.  Giant Saturn V rockets <a href='http://www.hq.nasa.gov/office/pao/History/SP-4204/ contents.html'>ultimately hurled</a> nine <a href='http://history.nasa.gov/apollo.html'>Apollo missions</a> to the Moon and back again with six landing on <a href='http://www.hq.nasa.gov/office/pao/History/alsj/'>the lunar surface</a>.  The first landing mission, <a href='http://history.nasa.gov/ap11ann/introduction.htm'>Apollo 11</a>, achieved Kennedy's goal on July 20, 1969.  "
-    }
+    },
+    "2019/11/08" :{
+        "title": "NGC 3572 and the Southern Tadpole",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='http://www.astrodrudis.com/'>Josep Drudis</a>  "
+       },
+       "link": "https://apod.nasa.gov/apod/image/1911/NGC3572SouthernTadpoles_Drudis1024.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label>  <a href='https://astrodrudis.com/the-southern-tadpoles/'>This cosmic skyscape</a> features glowing gas and dark dust clouds along side the young stars of  <a href='https://www.eso.org/public/usa/news/eso1347/'>NGC 3572</a>.  A beautiful emission nebula and star cluster in far southern skies, the region is often overlooked by astroimagers in favor of its brighter neighbor, the nearby <a href='ap181227.html'>Carina Nebula</a>.  Stars from NGC 3572 are toward the upper left in the telescopic frame that would measure about 100 light-years across at the cluster's estimated distant of 9,000 light-years.  The visible interstellar gas and dust is part of the star cluster's natal molecular cloud.  Dense streamers of material within the nebula, eroded by stellar winds and radiation, clearly trail away from the energetic young stars.  They are likely sites of ongoing star formation with shapes reminiscent of the cosmic <a href='ap180124.html'>Tadpoles of IC 410</a> better known to northern skygazers.   In the coming tens to hundreds of millions of years, gas and stars in the cluster will be dispersed though, by gravitational tides and by violent <a href='https://spaceplace.nasa.gov/supernova/en/'>supernova explosions</a> that end the short lives of the massive cluster stars.  "
+    },
+    "2019/11/07" :{
+        "title": "Messier 45: The Daughters of Atlas and Pleion",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='https://www.adamblockphotos.com/'>Adam Block</a>, <a href='http://www.as.arizona.edu/'>Steward Observatory, University of Arizona</a>  "
+       },
+       "link": "https://apod.nasa.gov/apod/image/1911/m45astrograph1024.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label>  Hurtling through a <a href='ap101118.html'>cosmic dust cloud</a> a mere 400 light-years away, the <a href='http://www.naic.edu/~gibson/pleiades/'>lovely Pleiades</a> or Seven Sisters open star cluster is well-known for its striking blue <a href='ap011228.html'>reflection nebulae</a>.  It lies in the night sky toward the constellation Taurus and the Orion Arm of our Milky Way Galaxy.  The <a href='ap070428.html'>sister stars</a> and <a href='ap070413.html'>cosmic dust cloud</a> are not related though, they just happen to be passing through the same region of space.  Known since antiquity as a compact grouping of stars, <a href='https://en.wikipedia.org/wiki/Pleiades#/media/File:Pleiades_Sidereus_Nuncius.png'>Galileo first sketched</a> the star cluster viewed through his telescope with stars too faint to be seen by eye.  <a href='https://www.nasa.gov/content/goddard/hubble-s-messier-catalog'> Charles Messier recorded</a> the position of the cluster as the 45th entry in his famous catalog of things which are not comets.  In Greek myth, the <a href='https://en.wikipedia.org/wiki/Pleiades_(Greek_mythology)'>Pleiades were seven daughters</a> of the astronomical titan Atlas and sea-nymph Pleione.  Their parents names are included in the cluster's nine brightest stars.  This deep and wide telescopic image spans over 20 light-years <a href='https://www.adamblockphotos.com/m45-the-pleiades.html'>across the Pleides star cluster</a>.  "
+    },
+    "2019/11/06" :{
+        "title": "21st Century M101",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='https://www.nasa.gov/'>NASA</a>, <a href='http://www.esa.int/esaCP/index.html'>ESA</a>, <a href='http://chandra.harvard.edu'>CXC</a>, <a href='http://spitzer.caltech.edu'>JPL</a> - <a href='http://www.galex.caltech.edu/'>Caltech</a>, <a href='http://hubblesite.org/'>STScI</a>  "
+       },
+       "link": "https://apod.nasa.gov/apod/image/1911/M101_nasaMultiW1024.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label>  One of the last entries in <a href='ap000311.html'>Charles Messier's</a> famous catalog, big, beautiful spiral galaxy M101 is definitely not <a href='http://messier.seds.org/m/m102d.html'>one</a> of the least.  About 170,000 light-years across, <a href='http://hubblesite.org/newscenter/archive/ releases/2006/10/'>this galaxy</a> is enormous, almost twice the size of our own Milky Way Galaxy.  <a href='http://messier.seds.org/more/m101_rosse.html'>M101 was also</a> one of the original spiral nebulae observed with Lord Rosse's large 19th century telescope, the <a href='https://en.wikipedia.org/wiki/Leviathan_of_Parsonstown'>Leviathan of Parsonstown.</a>  In contrast, <a href='http://www.spitzer.caltech.edu/images/ 5163-sig12-005-A-Pinwheel-Galaxy-Rainbow'>this multiwavelength view</a> of the large <a href='ap080124.html'>island universe</a> is a composite of images recorded by space-based telescopes in the 21st century.  Color coded from X-rays to infrared <a href='http://coolcosmos.ipac.caltech.edu/cosmic_classroom/ multiwavelength_astronomy/multiwavelength_astronomy/ index.html'>wavelengths</a> (high to low energies), the image data was taken from the <a href='http://chandra.si.edu/about/axaf_mission.html'>Chandra X-ray Observatory</a> (purple), the <a href='ap120518.html'>Galaxy Evolution Explorer</a> (blue), <a href='ap101013.html'>Hubble Space Telescope</a>(yellow), and the <a href='ap100410.html'>Spitzer Space Telescope</a>(red).  While the X-ray data trace the location of multimillion degree gas around M101's exploded stars and neutron star and black hole binary star systems, the lower energy data follow the stars and dust that define M101's grand spiral arms.  Also known as the <a href='http://messier.seds.org/m/m101.html'>Pinwheel Galaxy, M101</a> lies within the boundaries of the northern constellation <a href='ap060317.html'>Ursa Major</a>, about 25 million light-years away.  "
+    },
+    "2019/11/05" :{
+        "title": "Spiral Galaxies Spinning Super-Fast",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='https://www.nasa.gov/'>NASA</a>,  <a href='https://www.spacetelescope.org/'>ESA</a>,  <a href='https://www.nasa.gov/mission_pages/hubble/main/index.html'>Hubble</a>,   P. Ogle & J. DePasquale  (<a href='http://www.stsci.edu/'>STScI</a>); <br> <i> Bottom row: </i>  <a href='https://www.sdss.org/'>SDSS</a>, P. Ogle & J. DePasquale  (<a href='http://www.stsci.edu/'>STScI</a>)  "
+       },
+       "link": "https://apod.nasa.gov/apod/image/1911/SuperSpirals_HubbleSDSS_1080.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label> Why are these galaxies spinning so fast?   If you estimated each  <a href='ap190629.html'>spiral</a>'s mass by how  much light it emits, their fast rotations should  <a href='https://www.youtube.com/watch?v=zs7x1Hu29Wc&t=143s' >break them</a> apart.   The leading hypothesis as to why these galaxies don't break apart is  <a href='https://www.nasa.gov/audience/forstudents/9-12/features/what-is-dark-matter.html'>dark matter</a> --  mass so dark we can't see it.  But <a href='https://hubblesite.org/contents/news-releases/2019/news-2019-54' >these galaxies</a> are even out-spinning this break-up limit --  they are the  <a href='ap170307.html'>fastest rotating disk galaxies known</a>.   It is therefore  <a href='https://arxiv.org/abs/1909.09080'>further hypothesized</a>  that their  <a href='https://en.wikipedia.org/wiki/Dark_matter_halo' >dark matter halos</a> are so massive -- and their spins so fast --  that it is harder for them to form stars than  <a href='https://en.wikipedia.org/wiki/Spiral_galaxy'>regular spirals</a>.  If so, then these galaxies may be among the  <a href='https://ui.adsabs.harvard.edu/abs/2019ApJ...884L..11O/abstract' >most massive spirals</a> possible.  Further study of surprising super-spirals like these will continue,  likely including observations taken by  <a href='https://www.nasa.gov/'>NASA</a>'s  <a href='https://www.jwst.nasa.gov/'>James Webb Space Telescope</a>  scheduled for launch in 2021.    "
+    },
+    "2019/11/04" :{
+        "title": "Near the Center of the Lagoon Nebula",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='mailto: skywalkerww37 @at@ 163 .dot. com'>Zhuoqun Wu</a>, Chilescope  "
+       },
+       "link": "https://apod.nasa.gov/apod/image/1911/M8_Wu_966.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label> Stars are battling gas and dust in the Lagoon Nebula but the  <a href='https://purrfectlove.net/wp-content/uploads/2015/11/catwithcamera-1280x720.jpg' >photographer</a>s are winning.  Also known as M8, <a href='https://www.astrobin.com/qyjhg8/B/' >this photogenic nebula</a> is <a href='ap011229.html'>visible</a> even without binoculars towards the <a href= 'http://www.astro.wisc.edu/~dolan/constellations/extra/constellations.html' >constellation</a> of the Archer (<a href= 'http://www.astro.wisc.edu/~dolan/constellations/constellations/Sagittarius.html' >Sagittarius</a>).  The energetic processes of <a href='https://science.nasa.gov/astrophysics/focus-areas/how-do-stars-form-and-evolve' >star formation</a> create not only the colors but the <a href='ap031228.html'>chaos</a>.  The <a href='emission_nebulae.html'>glowing gas</a>  results from high-energy starlight striking interstellar <a href='http://en.wikipedia.org/wiki/Hydrogen'>hydrogen</a> gas  and trace amounts of  <a href='https://en.wikipedia.org/wiki/Sulfur'>sulfur</a>, and  <a href='https://periodic.lanl.gov/8.shtml'>oxygen</a> gases.  The dark <a href='ap030706.html'>dust</a> <a href='ap010928.html'>filaments</a> that lace <a href='http://messier.seds.org/m/m008.html'>M8</a> were created in the atmospheres of cool <a href='http://www.astro.keele.ac.uk/workx/starlife/StarpageS_26M.html' >giant stars</a> and in the <a href='ap990803.html'>debris</a> from <a href='http://imagine.gsfc.nasa.gov/science/objects/supernovae1.html' >supernovae</a> explosions.  The light from  <a href='ap181112.html'>M8</a> we see today left about <a href='http://en.wikipedia.org/wiki/3rd_millennium_BC'>5,000 years ago</a>.  Light takes about 50 years to cross this section of <a href='ap090519.html'>M8</a>.   "
+    },
+    "2019/11/03" :{
+        "title": "Daphnis and the Rings of Saturn",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='https://www.nasa.gov/'>NASA</a>, <a href='http://www.jpl.nasa.gov'>JPL-Caltech</a>,  <a href='http://www.spacescience.org/index.php'>Space Science Institute</a>,  <a href='https://solarsystem.nasa.gov/missions/cassini/mission/quick-facts/' >Cassini</a>  "
+       },
+       "link": "https://apod.nasa.gov/apod/image/1911/DaphnisRings_Cassini_960.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label> What's happening to the rings of Saturn?  A little moon making big waves.  The moon is 8-kilometer  <a href='https://en.wikipedia.org/wiki/Daphnis_(moon)'>Daphnis</a>  and it is making waves in the  <a href='https://en.wikipedia.org/wiki/Rings_of_Saturn#Keeler_Gap' >Keeler Gap</a> of  <a href='http://solarsystem.nasa.gov/planets/Saturn'>Saturn</a>'s rings  using just its gravity -- as it  <a href='https://www.youtube.com/watch?v=Snr73Og3Rbk'>bobs up and down</a>, in and out.   The <a href='https://photojournal.jpl.nasa.gov/catalog/PIA23167'>featured image</a>  is a colored and more detailed version of a  <a href='ap170121.html'>previously released</a>  <a href='ap170121.html'>images</a> taken in 2017 by the robotic  <a href='https://solarsystem.nasa.gov/missions/cassini/the-journey/the-spacecraft/' >Cassini spacecraft</a> during one of its <a href= 'https://solarsystem.nasa.gov/missions/cassini/mission/grand-finale/overview/' >Grand Finale</a>  <a href='ap170125.html'>orbits</a>.  <a href='https://solarsystem.nasa.gov/moons/saturn-moons/daphnis/in-depth/' >Daphnis</a> can be seen on the far right,  sporting ridges likely accumulated from <a href= 'https://en.wikipedia.org/wiki/Rings_of_Saturn#/media/File:Saturn_Ring_Material.jpg' >ring particles</a>.   <a href='http://solarsystem.nasa.gov/planets/daphnis'>Daphnis</a>  was discovered in Cassini images in 2005 and  raised mounds of ring particles so high in 2009 -- during  <a href='ap090901.html'>Saturn's equinox</a>  when the ring plane pointed directly at the Sun -- that they  <a href='http://photojournal.jpl.nasa.gov/catalog/PIA11656'>cast notable shadows</a>.  "
+    },
+    "2019/11/02" :{
+        "title": "Inside the Flame Nebula",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='http://en.wikipedia.org/wiki/Digitized_Sky_Survey'>DSS</a>; Infrared: <a href='http://www.spitzer.caltech.edu/'>NASA/JPL-Caltech</a>; <br> X-ray: NASA/<a href='http://chandra.harvard.edu/'>CXC</a>/PSU/ <a href='http://arxiv.org/abs/1403.2741'>K.Getman, E.Feigelson, M.Kuhn & the MYStIX team</a>  "
+       },
+       "link": "https://apod.nasa.gov/apod/image/1405/flame_optical.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label>  <a href='ap101126.html'>The Flame Nebula</a> stands out in this optical image of the dusty, crowded star forming regions <a href='ap131212.html'>toward Orion's belt</a>, a mere 1,400 light-years away.  X-ray data from the Chandra Observatory and infrared images from the Spitzer Space Telescope <a href='http://chandra.harvard.edu/resources/podcasts/hd/ index.html#pod080514_hd'>can take you inside</a> the glowing gas and obscuring dust clouds though.  Swiping your cursor (or clicking the image) will reveal many stars of the recently formed, embedded cluster NGC 2024, ranging in age from 200,000 years to 1.5 million years young.  <a href='http://chandra.harvard.edu/photo/2014/flame/'>The X-ray/infrared composite image</a> overlay spans about 15 light-years across the Flame's center.  The X-ray/infrared data also indicate that the youngest stars are concentrated near the middle of the Flame Nebula cluster.  That's the opposite of the simplest models of star formation for the stellar nursery that predict <a href='http://science.nasa.gov/astrophysics/focus-areas/ how-do-stars-form-and-evolve/'>star formation</a> begins in the denser center of a molecular cloud core.  <a href='http://arxiv.org/abs/1403.2741'>The result</a> requires a more complex model; perhaps star formation continues longer in the center, or older stars are ejected from the center due to subcluster mergers.  "
+    },
+    "2019/11/01" :{
+        "title": "The Day After Mars",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='http://cara.uai.it/'>CARA Project</a>, <a href='http://www.castfvg.it/'>CAST</a>"
+       },
+       "link": "https://apod.nasa.gov/apod/image/1911/MarsSSdayafter_ligustri_astroligu60.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label>  October 31, 1938 was the day after Martians encountered planet Earth, and everything was calm.  Reports of the invasion were revealed to be part of a Halloween radio drama, the now famous broadcast based on H.G. Wells' scifi novel <a href='http://en.wikipedia.org/wiki/ The_War_of_the_Worlds_%28radio_drama%29'>War of the Worlds</a>.  On Mars October 20, 2014 was calm too, the day after its close encounter with <a href='https://mars.nasa.gov/comets/sidingspring/'>Comet Siding Spring (C/2013 A1)</a>.  Not a hoax, this comet really did come within 86,700 miles or so of Mars, about 1/3 the Earth-Moon distance.  <a href='http://www.nasa.gov/jpl/comet-siding-spring/'>Earth's spacecraft and rovers</a> in Mars orbit and on the surface reported no ill effects though, and had a ringside seat as a visitor from the <a href='https://solarsystem.nasa.gov/solar-system/kuiper-belt/in-depth/'>outer  solar system</a> passed by.  Spanning over 2 degrees against stars of the constellation Ophiuchus, <a href='http://www.astrobin.com/130093/'>this colorful telescopic snapshot</a> captures our view of Mars on the day after.  Bluish star <a href='http://www.nasa.gov/centers/goddard/news/topstory/2009/ dust_disks.html'>51 Ophiuchi</a> is at the upper right and the comet is just emerging from the Red Planet's bright glare.  "
+    },
+    "2019/10/31" :{
+        "title": "The Ghostly Veil Nebula",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='https://www.astrobin.com/users/anismo/'>Anis Abdul</a>  <br>  "
+       },
+       "link": "https://apod.nasa.gov/apod/image/1910/ghostlyVeilNebula1034.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label>  <a href='https://www.astrobin.com/t3ywjh/C/?nc=user'>A ghostly visage on a cosmic scale</a>, these remains of shocked, glowing gas haunt planet Earth's sky toward the constellation of Cygnus and form <a href='http://spider.seds.org/spider/Misc/veil.html'>the Veil Nebula</a>.  The nebula itself is a large <a href='http://chandra.harvard.edu/xray_sources/ supernovas.html'>supernova remnant</a>, an expanding cloud born of the death explosion of a massive star.  Light from the original supernova explosion likely reached Earth over 5,000 years ago.  Also known as the Cygnus Loop, the <a href='http://archive.stsci.edu/fuse/scisumm/ sci_cyglpstar.html'>Veil Nebula</a> now spans nearly 3 degrees or about 6 times the diameter of the full Moon.  That translates to over 70 light-years at its estimated distance of 1,500 light-years.  In fact, the Veil is so large its brighter parts are recognized as separate nebulae, including The <a href='ap070101.html'>Witch's Broom</a> (NGC 6960) below and right of center.  At the top left you can find the Spectre of <a href='ap081101.html'>IC 1340</a>.  <a href='https://upload.wikimedia.org/wikipedia/commons/a/a2/Jack-o%27-Lantern_2003-10-31.jpg'>Happy Halloween!</a>  "
+    },
+    "2019/10/30" :{
+        "title": "M42: Inside the Orion Nebula",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='mailto: sidnuntius @at@ gmail .dot. com'>Josep M. Drudis</a> & <a href='http://astrodonimaging.com/'>Don Goldman</a>  "
+       },
+       "link": "https://apod.nasa.gov/apod/image/1910/M42Detailed_DrudisGoldman_960.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label> The <a href='https://en.wikipedia.org/wiki/Orion_Nebula'>Great Nebula in Orion</a>,  an immense, nearby  <a href='stellar_nurseries.html'>starbirth region</a>,  is probably the most famous of all  <a href='https://www.google.com/search?hl=en&safe=off&authuser=0&site=imghp&tbm=isch&source=hp&biw=1071&bih=646&q=site%3Aapod.nasa.gov+nebula&oq=site%3Aapod.nasa.gov+nebula' >astronomical nebulas</a>.   Here, <a href= 'http://astronomy.swin.edu.au/cosmos/E/Emission+Nebula'>glowing gas</a>  surrounds hot young stars at the edge of an  <a href='ap101023.html'>immense</a> interstellar  <a href='ap120129.html'>molecular cloud</a> only 1500  <a href='http://chandra.harvard.edu/photo/cosmic_distance.html' >light-years</a> away.   In the <a href='https://astrodrudis.com/messier-42-the-nebula-and-messier-43/' >featured deep image</a> in  <a href='http://en.wikipedia.org/wiki/LRGB'>assigned colors</a> highlighted by  emission in  <a href='http://periodic.lanl.gov/8.shtml'>oxygen</a> and  <a href='http://periodic.lanl.gov/1.shtml'>hydrogen</a>,  wisps and sheets of <a href='ap990509.html'>dust</a> and gas are particularly evident.   The <a href='ap151104.html'>Great Nebula in Orion</a>  can be found with the unaided eye near the  <a href='ap081015.html'>easily identifiable</a>  belt of three stars in the popular <a href= 'http://www.astro.wisc.edu/~dolan/constellations/extra/constellations.html' >constellation</a>  <a href='https://en.wikipedia.org/wiki/Orion_%28constellation%29'>Orion</a>.   In addition to housing a bright  <a href='open_clusters.html'>open cluster</a> of stars known as the  <a href='ap050710.html'>Trapezium</a>, the  <a href='ap130213.html' >Orion Nebula</a> contains many <a href= 'https://science.nasa.gov/astrophysics/focus-areas/how-do-stars-form-and-evolve' >stellar nurseries</a>.     These nurseries contain much  <a href='https://www.youtube.com/watch?v=MMB2VR0087w'>hydrogen</a> gas,  hot young stars,  <a href='ap961017.html'>proplyds</a>, and  <a href='ap070430.html'>stellar jets</a>  spewing material at high speeds.    Also known as  <a href='https://www.youtube.com/watch?v=2w8wwUqC4Xc'>M42</a>, the  <a href='ap980421.html'>Orion Nebula</a> spans about 40 <a href=' http://starchild.gsfc.nasa.gov/docs/StarChild/questions/question19.html' >light years</a> and is located in the same  <a href='ap080606.html'>spiral arm</a> of  <a href='http://www.atlasoftheuniverse.com/galaxy.html' >our Galaxy</a> as the  <a href='https://solarsystem.nasa.gov/solar-system/sun/overview/'>Sun</a>.   "
+    },
+    "2019/10/29" :{
+        "title": "Curiosity Rover Finds a Clay Cache on Mars",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='http://www.nasa.gov/'>NASA</a>, <a href='http://www.jpl.nasa.gov/'>JPL-Caltech</a>, <a href='http://www.msss.com/'>MSSS</a> "
+       },
+       "link": "https://apod.nasa.gov/apod/image/1910/ClayCache_Curiosity_960.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label> Why is there clay on Mars?  On Earth,  <a href='https://en.wikipedia.org/wiki/Clay'>clay</a>  can form at the bottom of a peaceful lake when specific minerals trap water.   At the  <a href='https://www.jpl.nasa.gov/spaceimages/details.php?id=PIA23240' >pictured</a> site on  <a href='https://solarsystem.nasa.gov/planets/mars/overview/'>Mars</a>,  the robotic rover Curiosity drilled into two rocks and found the  <a href='https://www.universetoday.com/142375/curiosity-has-found-the-mother-lode-of-clay-on-the-surface-of-mars/'>highest concentration of clay</a> yet.   The <a href= 'https://www.nasa.gov/feature/jpl/nasas-curiosity-mars-rover-finds-a-clay-cache' >clay cache</a> is considered addition evidence that  <a href='https://www.nasa.gov/mission_pages/msl/multimedia/pia15292.html' >Gale Crater</a> once held water in the distant past.   <a href='https://photojournal.jpl.nasa.gov/catalog/PIA23240' >Pictured</a>, 57 images taken by Curiosity have been combined into a selfie.  The images were taken by a camera at the end of its robotic arm.  Many details of the  <a href='https://en.wikipedia.org/wiki/Curiosity_(rover)#/media/File:PIA15279_3rovers-stand_D2011_1215_D521.jpg'>car-sized rover</a> are visible, including its rugged wheels, numerous scientific instruments, and a high mast that contains camera 'eyes', one of which can shoot out an infrared laser beam.   <a href='https://mars.nasa.gov/resources/24670/curiosity-at-glen-etive/' >Curiosity continues to roll</a> around and up  <a href='ap140308.html'>Mount Sharp</a> -- in the center of Gale Crater --  in a search for new clues about the ancient history of  Mars and whether or not the red planet once had conditions that could  <a href='https://en.wikipedia.org/wiki/Life_on_Mars'>support life</a>.   "
+    },
+    "2019/10/28" :{
+        "title": "The Space Station Crosses a Spotless Sun",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='https://www.facebook.com/astrofotografiarafaela/' >Eduardo Schaberger Poupeau</a> "
+       },
+       "link": "https://apod.nasa.gov/apod/image/1910/IssTransit_Poupeau_960.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label> Typically, the International Space Station is visible only at night.   Slowly drifting across the night sky as it orbits the Earth, the  <a href='https://www.nasa.gov/mission_pages/station/main/index.html' >International Space Station</a> (ISS) can be seen as a  <a href='ap110314.html'>bright spot</a> about once a month from many locations.   <a href='https://spotthestation.nasa.gov/faq.cfm'>The ISS</a> is then visible only just after sunset or just before sunrise because it shines by reflected sunlight -- once the ISS enters the Earth's shadow, it will drop out of sight.  The only occasion when the  <a href='ap160513.html'>ISS is visible during the day</a> is when it  <a href='ap190715.html'>passes right in front of the Sun</a>.  Then, it passes so quickly that only cameras  taking short exposures can visually freeze the  <a href='ap150912.html'>ISS's silhouette</a> onto the background  <a href='https://solarsystem.nasa.gov/solar-system/sun/overview/' >Sun</a>.  The  <a href='https://www.facebook.com/astrofotografiarafaela/photos/a.407916176064535/1110171379172341/?type=3&theater'>featured picture</a> did exactly that -- it is actually a series of images taken a month ago from  <a href='https://www.youtube.com/watch?v=ZIpceivSPY0'>Santa Fe</a>,  <a href='https://en.wikipedia.org/wiki/Argentina'>Argentina</a> with perfect timing.   This image series was later combined with a separate image  highlighting the texture of the spotless Sun, and an image bringing up the  <a href='ap180618.html'>Sun's prominences</a> around the edge.  At an unusually low  <a href='https://science.nasa.gov/science-news/news-articles/solar-minimum-is-coming' >Solar Minimum</a>, the Sun has gone  <a href='https://www.spaceweatherlive.com/en/solar-activity/solar-cycle' >without sunspots</a> now for most of 2019.    "
+    },
+    "2019/10/27" :{
+        "title": "Ghost Aurora over Canada",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='http://www.blue-moon.ca/contact.html'>Yuichi Takasaka</a>, <a href='http://twanight.org/newTWAN/photos.asp?ID=3004071'>TWAN</a> "
+       },
+       "link": "https://apod.nasa.gov/apod/image/1910/AuroraGhost_Takasaka_960.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label> What does this aurora look like to you?  While braving the cold to watch the skies above northern  <a href='https://en.wikipedia.org/wiki/Canada'>Canada</a>  early one morning in 2013, a most unusual aurora appeared.   The <a href='https://www.nasa.gov/mission_pages/sunearth/about-aurorae/index.html' >aurora</a> definitely appeared to be  <a href='ap161023.html'>shaped</a> like <i> something </i>, but what?  Two ghostly <a href='http://blue-moon.ca/2013feb.html' >possibilities recorded</a>  by the astrophotographer were 'witch' and 'goddess of dawn',  but please  <a href='http://asterisk.apod.com/discuss_apod.php?date=191027' >feel free to suggest</a> your own  <a href='https://s-media-cache-ak0.pinimg.com/originals/b4/aa/bc/b4aabcab1b37ac44839687b434e1d938.jpg' >Halloween-enhanced</a> impressions.  Regardless of fantastical  <a href='https://en.wikipedia.org/wiki/Pareidolia'>pareidolic</a> interpretations,  the pictured aurora had a  <a href='http://www.webexhibits.org/causesofcolor/4D.html'>typical green</a>  color and was surely caused by the scientifically commonplace action of high energy particles from space interacting with  <a href='http://periodic.lanl.gov/8.shtml'>oxygen</a> in  <a href='http://www.nasa.gov/mission_pages/sunearth/science/mos-upper-atmosphere.html' >Earth's upper atmosphere</a>.   In the image foreground, at the bottom, is a frozen  <a href='https://www.youtube.com/watch?v=DioO92W6iaQ'>Alexandra Falls</a>, while  <a href='https://en.wikipedia.org/wiki/Evergreen'>evergreen trees</a>  cross the middle.    "
+    },
+    "2019/10/26" :{
+        "title": "Gravity's Grin",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='http://chandra.harvard.edu/'>NASA / CXC</a> / <a href='http://arxiv.org/abs/1505.05501'>J. Irwin et al.</a> ;  Optical - <a href='http://www.stsci.edu/'>NASA/STScI</a>  <br>  "
+       },
+       "link": "https://apod.nasa.gov/apod/image/1910/cheshirecat_chandra_complg_1024.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label>  <a href='https://en.wikipedia.org/wiki/ List_of_scientific_publications_by_Albert_Einstein'>Albert Einstein's</a> general theory of relativity, published over 100 years ago, predicted the phenomenon of gravitational lensing.  And that's what gives these distant galaxies such a whimsical appearance, <a href='http://chandra.harvard.edu/photo/2015/cheshirecat/'>seen through the looking glass</a> of X-ray and optical image data from the Chandra and Hubble space telescopes.  Nicknamed the Cheshire Cat galaxy group, the group's two large elliptical galaxies are suggestively framed by arcs.  <a href='ap111221.html'>The arcs are optical images</a> of distant background galaxies lensed by the foreground group's total distribution of gravitational mass.  Of course, that gravitational mass is dominated <a href='https://www.lsst.org/science/dark-matter'>by dark matter</a>.  The two large elliptical 'eye' galaxies represent the brightest members of their own galaxy groups which are merging.  Their relative collisional speed of nearly 1,350 kilometers/second heats gas to millions of degrees producing the X-ray glow shown in purple hues.  <a href='http://arxiv.org/abs/1505.05501'>Curiouser</a> about galaxy group mergers?  The Cheshire Cat <a href='http://www.gutenberg.org/files/11/11-h/11-h.htm'>group grins</a> in the constellation Ursa Major, some 4.6 billion light-years away.  "
+    },
+    "2019/10/25" :{
+        "title": "The Ghosts of Cassiopeia",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "Tommaso Stella"
+       },
+       "link": "https://apod.nasa.gov/apod/image/1910/IC59IC63TheGhostsOfCassiopeiaTommasoStella2019_1024.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label>  These bright rims and flowing shapes look ghostly on a cosmic scale.  A telescopic view toward the constellation <a href='ap160318.html'>Cassiopeia</a>, the colorful skyscape features swept-back, comet-shaped clouds IC 59 (left) and IC 63.  About 600 light-years distant, <a href='http://iopscience.iop.org/1538-3881/129/2/954'>the clouds</a> aren't actually ghosts.  They are slowly disappearing though, under the influence of <a href='https://arxiv.org/abs/1809.01419'>energetic radiation</a> from hot,luminous star gamma Cas.  <a href='https://www.aavso.org/vsots_gammacas'>Gamma Cas</a> is physically located only 3 to 4 light-years from the nebulae, the bright star just above and left in the frame.  Slightly closer to gamma Cas, IC 63 is dominated by <a href='ap111013.html'>red H-alpha light emitted</a> as hydrogen atoms ionized by the star's ultraviolet radiation recombine with electrons.  Farther from the star, IC 59 shows proportionally less H-alpha emission but more of the characteristic blue tint of dust <a href='ap091126.html'>reflected star light</a>.  The field of view spans over 1 degree or 10 light-years at the estimated distance of <a href='https://arxiv.org/abs/1705.04313'>gamma Cas and friends</a>.  "
+    },
+    "2019/10/24" :{
+        "title": "Dark Seahorse in Cepheus",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='http://www.myastroscience.com/'>Sergio Kaminsky</a>"
+       },
+       "link": "https://apod.nasa.gov/apod/image/1910/Barnard150Seahorse1024.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label>  Light-years across, this <a href='https://ui.adsabs.harvard.edu/?#abs/1916ApJ....43....1B'> suggestive</a> shape known as the Seahorse Nebula appears in silhouette against a rich, luminous background of stars.  Seen toward the royal northern constellation of Cepheus, the dusty, obscuring clouds are part of a Milky Way molecular cloud some 1,200 light-years distant.  It is also listed as Barnard 150 (B150), one of 182 <a href='http://adsabs.harvard.edu/cgi-bin/ bib_query?1919ApJ....49....1B'>dark markings of the sky</a> cataloged in the early 20th century by astronomer <a href='http://www.library.gatech.edu/barnard/ index.html'>E. E. Barnard</a>.  Packs of low mass stars are forming <a href='https://arxiv.org/abs/0809.4761'>within</a> from collapsing cores only visible at long <a href='https://www.nasa.gov/mission_pages/spitzer/main/ index.html'>infrared wavelengths</a>.  Still, colorful stars in Cepheus add to the <a href='http://www.myastroscience.com/barnard150'>pretty, galactic skyscape</a>.  "
+    },
+    "2019/10/23" :{
+        "title": "Starry Night by Vincent van Gogh",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='https://en.wikipedia.org/wiki/Vincent_van_Gogh'>Vincent van Gogh</a>; <i> Digital Rendering: </i> <a href='https://www.moma.org/collection/works/79802'>MoMA</a>,  <a href='https://artsandculture.google.com/'>Google Arts & Culture</a>,  via <a href='https://commons.wikimedia.org/wiki/File:Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg'>Wikipedia</a> "
+       },
+       "link": "https://apod.nasa.gov/apod/image/1910/StarryNight_VanGogh_970.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label> The painting <a href='https://en.wikipedia.org/wiki/Starry_Night'>Starry Night</a> is one of the most famous icons of the night sky ever created.     The scene was painted by <a href='https://www.ibiblio.org/wm/paint/auth/gogh/'>Vincent van Gogh</a> in southern France in 1889.     The swirling style of <a href='https://www.moma.org/collection/works/79802'>Starry Night</a>  appears, to many, to make the night sky <a href='ap001220.html'>come alive</a>.     Although <a href='http://vangoghletters.org/vg/'>van Gogh</a> frequently portrayed <a href='https://en.wikipedia.org/wiki/Starry_Night_Over_the_Rhone' >real setting</a>s in his paintings, art historians do not agree on precisely what stars and planets are being depicted in <a href='ap180127.html'>Starry Night</a>.      The style of <a href='http://www.andreaplanet.com/mosaic/starrynight/' >Starry Night</a> is <a href='https://en.wikipedia.org/wiki/Post-impressionism' >post-impressionism</a>, a popular painting style at the end of the nineteenth century.   The original Starry Night painting hangs in the <a href='https://moma.org/'>Museum of Modern Art</a> in <a href='ap140706.html'>New York City</a>, <a href='https://en.wikipedia.org/wiki/New_York_(state)'>New York</a>, <a href='https://www.cia.gov/library/publications/the-world-factbook/geos/us.html' >USA</a>.   "
+    },
+    "2019/10/22" :{
+        "title": "Night Sky Reflections from the World's Largest Mirror",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='https://jheisonhuerta.com/sobre-jheison-huerta'>Jheison Huerta</a> "
+       },
+       "link": "https://apod.nasa.gov/apod/",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label> What's being reflected in the world's largest mirror?   Stars, galaxies, and a planet.   Many of these stars are confined to the grand arch that runs across the image, an arch that is the central plane of our home  <a href='https://solarsystem.nasa.gov/resources/285/the-milky-way-galaxy/' >Milky Way Galaxy</a>.  Inside the arch is another galaxy -- the neighboring  <a href='ap150827.html'>Large Magellanic Cloud</a> (LMC).   Stars that are individually visible include  <a href='https://en.wikipedia.org/wiki/Antares'>Antares</a> on the far left and  <a href='https://en.wikipedia.org/wiki/Sirius'>Sirius</a> on the far right.  The planet  <a href='ap190205.html'>Jupiter</a> shines brightly just below  <a href='ap190827.html'>Antares</a>.  The featured picture is composed of 15  <a href='https://i.pinimg.com/originals/1f/6e/6c/1f6e6c251f5e6cfd6bfc54cf572b0ed4.jpg' >vertical frames</a> taken consecutively over ten minutes from the  <a href='https://www.youtube.com/watch?v=BH0gyZG0_ok'>Uyuni Salt Flat</a> in  <a href='https://en.wikipedia.org/wiki/Bolivia'>Bolivia</a>.  Uyuni Salt Flat  (<a href='https://en.wikipedia.org/wiki/Salar_de_Uyuni'>Salar de Uyuni</a>) is the largest  <a href='https://en.wikipedia.org/wiki/Salt_pan_(geology)'>salt flat<a/> on  <a href='https://solarsystem.nasa.gov/planets/earth/overview/'>Earth</a>  and is so large and so  <a href='https://www.youtube.com/watch?v=GowLYZl090I'>extraordinarily flat</a> that, after a rain, it can become the world's largest mirror -- spanning 130 kilometers.    <a href='https://youtu.be/1vPMD3wmaZo?t=204'>This expansive mirror</a>  was captured in early April reflecting each of the galaxies, stars,  and planet mentioned above.    "
+    },
+    "2019/10/21" :{
+        "title": "A Mercury Transit Music Video from SDO",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='https://www.nasa.gov'>NASA</a>'s  <a href='https://www.nasa.gov/goddard'>Goddard Space Flight Center</a>,  <a href='http://gennaduberstein.com/about/'>Genna Duberstein</a>;  <i> Music: </i>  <a href='https://soundcloud.com/mark-22/encompass'>Encompass</a> by  <a href='https://soundcloud.com/mark-22'>Mark Petrie</a> "
+       },
+       "link": "https://www.youtube.com/embed/AhWMOkrzKzs?rel=0",
+       "linkType": "iframe",
+       "explanation": "<label class = 'explanation'>Explanation:</label> What's that small black dot moving across the Sun?  <a href='https://solarsystem.nasa.gov/planets/mercury/overview/'>Mercury</a>.  Possibly the clearest view of <a href='ap120605.html'>Mercury crossing</a> in front of the Sun in 2016 May was from Earth orbit.  The <a href='https://sdo.gsfc.nasa.gov/mission/' >Solar Dynamics Observatory</a> obtained an uninterrupted vista <a href='http://svs.gsfc.nasa.gov/12235' >recording it</a> not only in optical light but also in bands of ultraviolet light.  <a href='https://www.youtube.com/watch?v=8J4LoX3eOWc' >Featured here</a> is a composite movie of the crossing set to music.  Although the event might prove <a href='https://science.nasa.gov/2016-transit-mercury' >successful scientifically</a> for better determining components of Mercury' ultra-thin atmosphere, the event surely proved <a href=' http://astronomerswithoutborders.org/gam2016-programs/observing/3163-transit-of-mercury.html' >successful culturally</a> by involving <a href='ap100725.html'>people throughout the world</a> in observing a rare astronomical phenomenon.  <a href='https://www.spaceweather.com/eclipses/gallery_08nov06.htm' >Many spectacular images</a> of this  <a href='https://en.wikipedia.org/wiki/Transit_of_Mercury' >Mercury transit</a> from around (and above) the globe were  <a href='http://asterisk.apod.com/viewtopic.php?f=29&t=35887&start=36' >proudly</a>  <a href='https://www.google.com/search?q=Mercury+Transit+2016&hl=en&authuser=0&biw=1254&bih=721&source=lnt&tbs=cdr%3A1%2Ccd_min%3A5%2F9%2F2016%2Ccd_max%3A5%2F10%2F2016&tbm=isch' >displayed</a>.  The next  <a href='https://en.wikipedia.org/wiki/Transit_of_Mercury'>transit of Mercury</a>  will take place in <a href= 'https://www.jpl.nasa.gov/edu/events/2019/11/11/watch-the-transit-of-mercury-2019/'>three weeks</a>: on 2019 November 11.     "
+    },
+    "2019/10/20" :{
+        "title": "Pluto at Night",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='http://www.nasa.gov/'>NASA</a>, <a href='http://www.jhuapl.edu/'>Johns Hopkins Univ./APL</a>, <a href='http://www.swri.edu/'>Southwest Research Institute</a>  <br>  "
+       },
+       "link": "https://apod.nasa.gov/apod/image/1910/PIA20727PlutoNight1024c.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label>  The night side of Pluto spans <a href='https://photojournal.jpl.nasa.gov/catalog/PIA20727'>this shadowy scene</a>, a stunning spacebased view with the Sun 4.9 billion kilometers (almost 4.5 light-hours) behind the dim and distant world.  It was captured by far flung <a href='http://www.nasa.gov/feature/new-horizons-best-close-up-of-plutos-surface'>New Horizons in July of 2015</a>.  The spacecraft was at a range of some 21,000 kilometers from Pluto, about 19 minutes after its closest approach.  A denizen <a href='http://www.nasa.gov/feature/ new-horizons-collects-first-science-on-a-post-pluto-object'>of the Kuiper Belt</a> in dramatic silhouette, the image also reveals Pluto's tenuous, surprisingly <a href='https://arxiv.org/abs/1604.05356'>complex layers</a> of hazy atmosphere.  The crescent <a href='ap150918.html'>twilight landscape</a> near the top of the frame includes  southern areas of nitrogen ice plains now formally known as <a href='https://en.wikipedia.org/wiki/Sputnik_Planitia'>Sputnik Planitia</a> and <a href='ap150718.html'>rugged mountains</a> of water-ice in the Norgay Montes.  "
+    },
+    "2019/10/19" :{
+        "title": "All Female Spacewalk Repairs Space Station",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='https://www.nasa.gov'>NASA</a> TV, <a href= 'https://www.nasa.gov/mission_pages/station/expeditions/expedition61/index.html' >Expedition 61</a> "
+       },
+       "link": "https://apod.nasa.gov/apod/image/1910/KochMeirISS_NASA_960.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label> The failed unit was beyond the reach of the robotic  <a href='http://www.asc-csa.gc.ca/eng/iss/canadarm2/default.asp' >Canadarm2</a>.   Therefore, this repair of the  <a href='ap151109.html'>International Space Station</a> would require humans.  The humans on duty were NASA's  <a href='https://www.nasa.gov/astronauts/biographies/jessica-u-meir/biography' >Jessica Meir</a>  and  <a href='https://www.nasa.gov/astronauts/biographies/christina-h-koch' >Christina Koch</a>.  This was the fourth spacewalk for Koch, the first for Meir, and the  <a href='https://www.nasa.gov/mediacast/space-to-ground-history-made-10182019' >first all-female spacewalk in human history</a>.   The first woman to walk in space was  <a href='https://en.wikipedia.org/wiki/Svetlana_Savitskaya' >Svetlana Savitskaya</a> in 1984.   Koch (red stripe) and Meir are  <a href='https://blogs.nasa.gov/spacestation/2019/10/18/nasa-astronauts-wrap-up-historic-all-woman-spacewalk/'>pictured</a> hard at work on the  <a href='https://en.wikipedia.org/wiki/Integrated_Truss_Structure'>P6 Truss</a>,  with solar panels and the darkness of space in the background.   <a href='https://www.nasaspaceflight.com/2019/10/failed-battery-charge-discharge-unit-replacement-spacewalk/'>Working over seven hours</a>, the newly installed  <a href='https://en.wikipedia.org/wiki/Electrical_system_of_the_International_Space_Station#Power_management_and_distribution' >Battery Charge / Discharge Unit</a> (BCDU) was successfully replaced and, when powered up, operated normally.    "
+    },
+    "2019/10/18" :{
+        "title": "Interstellar Interloper 2I/Borisov",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='https://www.nasa.gov/'>NASA</a>,  <a href='http://www.spacetelescope.org/'>ESA</a>, and  <a href='http://www2.ess.ucla.edu/~jewitt/David_Jewitt.html'>D. Jewitt</a>  (<a href='http://www.ess.ucla.edu/'>UCLA</a>) et al.  <br>  "
+       },
+       "link": "https://apod.nasa.gov/apod/image/1910/STSCI-H-p1953b_1024.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label>  After the 2017 detecton of 1I/'Oumuamua, <a href='https://www.nasa.gov/feature/goddard/2019/hubble-observes-1st-confirmed-interstellar-comet'>comet 2I/Borisov</a> has become the second recognized interstellar interloper.  Like 'Oumuamua, Borisov's measured hyperbolic trajectory and speed as it falls toward the Sun confirm that its origin is from beyond our Solar System.  But while detailed observations indicate <a href='https://solarsystem.nasa.gov/asteroids-comets-and-meteors/comets/oumuamua/in-depth/'>'Oumuamua is a rocky body</a> with differences from known Solar System objects, <a href='https://hubblesite.org/contents/news-releases/2019/news-2019-53'> Borisov is definitely a far wandering comet</a>.  Taken on October 12, 2019 this <a href='https://hubblesite.org/contents/media/images/2019/53/4578-Image'> Hubble Space Telescope image of Borisov</a> reveals a familiar looking comet-like activity and concentration of dust around around its nucleus.  Not resolved in the image, some estimates suggest the nucleus could be between 2 and 16 kilometers in diameter.  At the time of the Hubble image, comet 2I/Borisov was about 418 million kilometers away.  Borisov is still inbound though and will make its closest approach to the Sun on December 7 at a distance of about 300 million kilometers (2 Astronomical units).  "
+    },
+    "2019/10/17" :{
+        "title": "Moons of Saturn",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='http://ciclops.org/'>Cassini Imaging Team</a>, <a href='http://www.spacescience.org/'>SSI</a>, <a href='http://www.jpl.nasa.gov/'>JPL</a>, <a href='http://www.nasa.gov/'>NASA</a>  <br>  "
+       },
+       "link": "https://apod.nasa.gov/apod/image/1910/PIA12797-full.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label>  On July 29, 2011 the Cassini spacecraft's narrow-angle camera <a href='https://photojournal.jpl.nasa.gov/catalog/?IDNumber=PIA12797'>took this snapshot</a> and captured 5 <a href='https://solarsystem.nasa.gov/resources/all/?order=pub_date+desc&per_page=50&page=0&search=&fs=&fc=&ft=saturn+moons&dp=&category='>of Saturn's moons</a>, from just above the ringplane.  Left to right are small moons Janus and Pandora respectively 179 and 81 kilometers across, shiny 504 kilometer diameter Enceladus, and Mimas, 396 kilometers across, seen just next to Rhea.  Cut off by the right edge of the frame, Rhea is Saturn's second largest moon at 1,528 kilometers across.  So <a href='https://solarsystem.nasa.gov/moons/in-depth/'>how many moons</a> does Saturn have?  Twenty new found outer satellites bring its total to 82 known moons, and since Jupiter's moon total stands at 79, Saturn is the Solar System's new moon king.  <a href='https://carnegiescience.edu/news/saturn-surpasses-jupiter-after-discovery-20-new-moons-and-you-can-help-name-them'>The newly announced Saturnian satellites</a> are all very small, 5 kilometers or so in diameter, and most are in retrograde orbits inclined to Saturn's ringplane.  You can help <a href='https://carnegiescience.edu/NameSaturnsMoons'>name Saturn's new moons, but you should understand the rules</a>.  Hint: A knowledge of Norse, Inuit, and Gallic mythology will help.  "
+    },
+    "2019/10/16" :{
+        "title": "BHB2007: A Baby Binary Star in Formation",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='http://www.almaobservatory.org/'>ALMA</a>  (<a href='http://www.eso.org/public/'>ESO</a>/<a      href='http://www.nao.ac.jp/en/'>NAOJ</a>/<a      href='https://public.nrao.edu/'>NRAO</a>),  <a href='http://www.mpe.mpg.de/person/37850/5947722'>F. O. Alves</a>  <a href='https://ui.adsabs.harvard.edu/abs/2019arXiv191001141A/abstract'>et al.</a>  "
+       },
+       "link": "https://apod.nasa.gov/apod/image/1910/BabyBinary_Alma_960.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label> How do binary stars form?  To help find out, the  <a href='https://www.eso.org/sci/facilities/alma/about-alma.html' >Atacama Large Millimeter Array</a>  (<a href='https://en.wikipedia.org/wiki/Atacama_Large_Millimeter_Array'>ALMA</a>) recently captured one of the highest resolution images yet taken of a binary star system in formation.   Most <a href='https://science.nasa.gov/astrophysics/focus-areas/how-do-stars-form-and-evolve'>stars</a> are not alone -- they typically form as part of a multiple star systems where star each orbits a common center of gravity.   The two bright spots in the  <a href='https://www.eso.org/public/news/eso1916/' >featured image</a> are small disks that surround the forming proto-stars in [BHB2007] 11, while the surrounding pretzel-shaped filaments are gas and dust that have been  <a href='https://www.eso.org/public/videos/eso1916b/'>gravitationally pulled</a>  from a larger disk.   The <a href='https://ui.adsabs.harvard.edu/abs/2019arXiv191001141A/abstract' >circumstellar filaments</a> span roughly the radius of the orbit of  <a href='https://solarsystem.nasa.gov/planets/neptune/overview/' >Neptune</a>.   The  <a href='https://www.eso.org/public/videos/eso1916a/'>BHB2007 system</a>  is a small part of the  <a href='ap121123.html'>Pipe Nebula</a> (also known as  <a href='https://en.wikipedia.org/wiki/Pipe_Nebula'>Barnard 59</a>), a  <a href='ap180702.html'>photogenic network</a> of  <a href='ap030706.html'>dust</a> and gas that protrudes from  <a href='https://solarsystem.nasa.gov/resources/285/the-milky-way-galaxy/' >Milky Way's spiral disk</a> in the  <a href='https://en.wikipedia.org/wiki/Ophiuchus'>constellation of Ophiuchus</a>.  The <a href='ap970219.html'>binary star</a> formation process should be complete within a <a href='https://i.imgflip.com/2jx3bz.jpg'>few million years</a>.   "
+    },
+    "2019/10/15" :{
+        "title": "The Galaxy Above",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='mailto: rodrigoguerra1972 @at@ gmail .dot. com'>Rodrigo Guerra</a>  "
+       },
+       "link": "https://apod.nasa.gov/apod/image/1910/MilkyWayAbove_Guerra_960.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label> Have you contemplated your home galaxy lately?   If your sky looked like this, perhaps you'd  <a href='ap040808.html'>contemplate</a> it more often!  The featured picture is actually a composite of  two images taken last month from the same location in south  <a href='https://en.wikipedia.org/wiki/Brazil'>Brazil</a>  and with the same camera -- but a few hours apart.   The person in the image -- also the astrophotographer -- has much to see in the  <a href='https://solarsystem.nasa.gov/resources/285/the-milky-way-galaxy/' >Milky Way Galaxy</a> above.  The <a href='ap110710.html'>central band of our home Galaxy</a>  stretches diagonally up from the lower left.  This band is dotted with  <a href='ap180702.html'>spectacular sights</a> including  <a href='ap171008.html'>dark nebular</a> filaments,  <a href='ap190901.html'>bright blue stars</a>, and  <a href='ap190927.html'>red nebulas</a>.   Millions of fainter and redder stars fill in the deep Galactic background.   To the lower right of the Milky Way are the colorful gas and dust clouds of  <a href='ap190513.html'>Rho Ophiuchi</a>, featuring the bright orange star  <a href='ap180702.html'>Antares</a>.   On this night, just above and to the right of Antares was the  <a href='ap190807.html'>bright planet</a>  <a href='https://solarsystem.nasa.gov/planets/jupiter/overview/' >Jupiter</a>.   The sky is so old and so familiar that  <a href='https://medium.com/nakshatra/whats-your-story-a-collection-of-constellation-mythologies-b69dbe833d08'>humanity has formulated many stories</a> about it,  some of which  <a href='https://previews.123rf.com/images/serkucher/serkucher1801/serkucher180100547/94387930-lop-eared-kitten-scotland-cat-surprised-cat-emotional-kitty-in-the-box.jpg' >inspired</a> this very picture.    "
+    },
+    "2019/10/14" :{
+        "title": "Andromeda before Photoshop",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='https://www.flickr.com/people/kees-scherer/'>Kees Scherer</a>  "
+       },
+       "link": "https://apod.nasa.gov/apod/image/1910/M31Before_Scherer_960.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label> What does the Andromeda galaxy really look like?  The  <a href='https://www.flickr.com/photos/kees-scherer/48847775697/' >featured image</a> shows how our  <a href='https://solarsystem.nasa.gov/resources/285/the-milky-way-galaxy/' >Milky Way Galaxy</a>'s closest major  galactic neighbor really appears in a long exposure through  <a href='https://solarsystem.nasa.gov/planets/earth/overview/'>Earth</a>'s busy skies and with a digital camera that introduces normal imperfections.   The picture is a stack of 223 images, each a 300 second exposure,  taken from a garden observatory in  <a href='https://en.wikipedia.org/wiki/Portugal'>Portugal</a> over the past year.   Obvious image deficiencies include bright parallel  <a href='ap070825.html'>airplane trails</a>, long and continuous  <a href='ap080604.html'>satellite trails</a>, short  <a href='https://www.eso.org/óhainaut/ccd/CCD_artifacts.html' >cosmic ray streaks</a>, and  <a href='https://www.astro.rug.nl/ńdouglas/teaching/JAFFE/reduce.htm#BAD%20PIXELS' >bad pixels</a>.   These imperfections were actually not removed with  <a href='https://en.wikipedia.org/wiki/Adobe_Photoshop'>Photoshop</a>  specifically, but rather  <a href='image/1910/AndromedaAfter_Scherer_960.jpg'>greatly reduced</a>  with a series of computer software packages that included  Astro Pixel Processor, DeepSkyStacker, and PixInsight.   All of this work was done not to  <a href='https://tenor.com/view/confused-dog-who-me-gif-14663746' >deceive you</a> with a  <a href='ap131230.html'>digital fantasy</a>  that has little to do with the real likeness of the  <a href='ap181217.html'>Andromeda galaxy</a> (M31),  but to minimize Earthly artifacts that have nothing  to do with the distant galaxy and so better recreate  <a href='ap190909.html'>what M31 really does look like</a>.   "
+    },
+    "2019/10/13" :{
+        "title": "A Stellar Jewel Box: Open Cluster NGC 290",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='https://www.nasa.gov/'>NASA</a>,  <a href='http://www.esa.int/'>ESA</a>,  <a href='https://www.nasa.gov/mission_pages/hubble/main/index.html'>Hubble</a>; <i> Acknowledgement: </i> E. Olzewski (U. Arizona)  "
+       },
+       "link": "https://apod.nasa.gov/apod/image/1910/Ngc290_HubbleOlszewski_960.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label> Jewels don't shine this bright -- only stars do.    Like gems in a jewel box, though, the stars of  <a href='https://en.wikipedia.org/wiki/Open_cluster'>open cluster</a>  NGC 290 glitter in a  <a href='ap010618.html'>beautiful display</a> of brightness and color.     The photogenic cluster,  <a href='https://hubblesite.org/image/1900/gallery'>pictured here</a>,  was captured in 2006 by the orbiting  <a href='ap021124.html'>Hubble Space Telescope</a>.    Open clusters of <a href= 'https://science.nasa.gov/astrophysics/focus-areas/how-do-stars-form-and-evolve' >stars</a> are younger, contain few stars,  and contain a much higher fraction of blue stars than do  <a href='globular_clusters.html'>globular clusters</a> of stars.   NGC 290 lies about 200,000   <a href='https://chandra.harvard.edu/photo/cosmic_distance.html'>light-years</a>  distant in a neighboring galaxy called the  <a href='ap050617.html'>Small Cloud of Magellan</a> (SMC).      The <a href='ap060109.html'>open cluster</a> contains hundreds of stars  and spans about 65 light years across.    <a href='https://www.youtube.com/watch?v=hSSA5lXgtwI'>NGC 290</a>  and other open clusters are good laboratories for studying how  <a href='https://en.wikipedia.org/wiki/Stellar_evolution' >stars of different masses evolve</a>,  since all the open cluster's stars were born at about the same time.    "
+    },
+    "2019/10/12" :{
+        "title": "Interplanetary Earth",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='http://ciclops.org/'>Cassini Imaging Team</a>, <a href='http://www.spacescience.org/'>SSI</a>, <a href='http://www.jpl.nasa.gov/'>JPL</a>, <a href='http://www.esa.int/'>ESA</a>, <a href='http://www.nasa.gov/'>NASA</a> &  <a href='http://www.nasa.gov/'>NASA</a>/<a  href='http://messenger.jhuapl.edu/'>JHU Applied Physics Lab</a>/<a  href='http://www.ciw.edu/'>Carnegie Inst. Washington </a>  <br>  "
+       },
+       "link": "https://apod.nasa.gov/apod/image/1910/earth_cassinimessenger_1024c.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label>  In an interplanetary first, on July 19, 2013 Earth was photographed on the same day from two other worlds of the Solar System, innermost planet Mercury and ringed gas giant Saturn.  <a href='http://photojournal.jpl.nasa.gov/catalog/PIA17038' >Pictured</a> on the left, Earth is the  <a href='http://en.wikipedia.org/wiki/Pale_blue_dot'>pale blue dot</a>  just below the rings of Saturn, as captured by the  <a href='http://en.wikipedia.org/wiki/Cassini%E2%80%93Huygens'>robotic Cassini spacecraft</a> then orbiting the <a href='https://en.wikipedia.org/wiki/Ice_giant'>outermost</a> gas giant.  On that same day people across <a href='ap100713.html'>planet Earth</a> snapped many <a href='http://www.flickr.com/groups/wave_at_saturn/pool/'> of their own</a> pictures of Saturn.  On the right, the  <a href='ap130722.html'>Earth-Moon system</a> is seen against the dark background of space as captured by the  <a href='http://en.wikipedia.org/wiki/MESSENGER'>robotic MESSENGER spacecraft</a>, then in Mercury orbit.  MESSENGER took its image as part of a search for small natural satellites of Mercury, moons that would be expected to be quite dim.  In the  <a href='http://www.nasa.gov/mission_pages/cassini/multimedia/pia17171.html' >MESSENGER image</a>, the Earth (left) and Moon (right) are overexposed and <a href='ap100901.html'>shine brightly</a> with reflected sunlight.  Destined not to return to their home world, both <a href='https://www.nasa.gov/mission_pages/cassini/main/index.html'> Cassini</a> and <a href='https://www.nasa.gov/mission_pages/messenger/main/index.html'> MESSENGER</a> have since retired from their missions of Solar System exploration.  "
+    },
+    "2019/10/11" :{
+        "title": "Planet Earth at Blue Hour",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='https://www.instagram.com/matthias.ciprian/'>Matthias Ciprian</a>"
+       },
+       "link": "https://apod.nasa.gov/apod/image/1910/2019-08-08-JMT19_1521-Pano-Edit_h600.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label>  Nature photographers and other <a href='http://twanight.org/newTWAN/index.asp'>fans of planet Earth</a> always look forward to <a href='https://earthsky.org/earth/what-is-the-blue-hour'>the blue hour</a>.  That's the transition <a href='ap130406.html'>in twilight</a>, just before sunrise or after sunset, when the Sun is below the horizon but land and sky are still suffused with beautiful bluish hues of light.  On August 8 this <a href='https://www.instagram.com/p/B3bI5EoAlkN/'>early morning blue hour panorama</a> scanned along the clear western sky, away from the impending sunrise.  A breathtaking scene, it looks down the slopes of Mt. Whitney, from along the <a href='https://en.wikipedia.org/wiki/John_Muir_Trail'>John Muir Trail</a> toward rugged peaks of planet Earth's Sierra Nevada mountain range.  Above the horizon a faint pinkish band of back scattered sunlight, the anti-twilight arch or <a href='ap060615.html'>Belt of Venus</a>, borders the falling grey shadow of Earth itself.  Subtle bands of light across the clear sky are anti-crepuscular rays, defined by <a href='https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS029&roll=E&frame=31270'>shadows of clouds</a> near the sunward horizon.  Actually following parallel lines they seem to converge along the horizon at the point opposite the rising Sun due to perspective.  "
+    },
+    "2019/10/10" :{
+        "title": "Mid-Air Meteor and Milky Wa",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='https://www.facebook.com/ericwagnerphoto/'>Eric Wagner</a>  <br>  "
+       },
+       "link": "https://apod.nasa.gov/apod/image/1910/MWBolideEricWagner1200.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label>  On September 24, a late evening commercial flight from Singapore to Australia offered stratospheric views of the southern hemisphere's night sky, if you <a href='ap180922.html'>chose a window seat</a>.  In fact, a well-planned seating choice with a window facing toward the Milky Way allowed the set up of a sensitive digital camera on a tripod mount to record the <a href='https://webbtelescope.org/resource-gallery/articles/pagecontent/filter-articles/what-is-the-center-of-our-galaxy-like'> galaxy's central bulge</a> in a series of 10 second long exposures.    By chance, one of <a href='https://www.facebook.com/photo.php?fbid=10106239338437641&set=p.10106239338437641&type=3&theater'>the exposures</a> caught this <a href='https://www.facebook.com/ericwagnerphoto/photos/a.737481899729365/1767921670018711/?type=3&theater'>bright fireball meteor in the starry frame</a>.  Reflected along the wing of the A380 aircraft, the brilliant greenish streak is also internally reflected in the double layer window, producing a fainter parallel to the original meteor track.  In the southern sky Jupiter is the bright source beneath the galactic bulge and seen next to a green beacon, just <a href='ap190706.html'>off the wing tip</a>.  "
+    },
+    "2019/10/09" :{
+        "title": "NGC 7714: Starburst after Galaxy Collision",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='https://www.nasa.gov/'>NASA</a>,  <a href='https://www.esa.int/About_Us/Welcome_to_ESA'>ESA</a>,  <a href='https://hla.stsci.edu/'>Hubble Legacy Archive</a>; <i> Processing & Copyright: </i>  <a href='https://www.astrobin.com/users/Rudy_Pohl/'>Rudy Pohl</a>  "
+       },
+       "link": "https://apod.nasa.gov/apod/image/1910/Ngc7714_HubblePohl_1080.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label> Is this galaxy jumping through a  <a href='ap150419.html'>giant ring of stars</a>?   Probably not.   Although the precise  <a href='https://ui.adsabs.harvard.edu/abs/2003ApJ...589..157S/abstract' >dynamics behind</a>  the featured image is yet unclear, what is clear is that the pictured galaxy,  <a href='https://www.youtube.com/watch?v=zMIBcXo-oXo'>NGC 7714</a>,  has been stretched and distorted by a recent collision with a neighboring galaxy.  This smaller neighbor,  <a href='http://faculty.etsu.edu/smithbj/captions/n7714cap.html'>NGC 7715</a>,  situated off to the left of the featured frame, is thought to have charged right through  <a href='https://www.spacetelescope.org/news/heic1503/'>NGC 7714</a>.  Observations indicate that the golden  <a href='https://www.flickr.com/photos/rudypohl/32588157757/in/photostream/' >ring pictured</a> is composed of millions of older Sun-like stars  that are likely co-moving with the interior bluer stars.  In contrast, the bright center of  <a href='https://en.wikipedia.org/wiki/NGC_7714'>NGC 7714</a>  appears to be undergoing a burst of new star formation.   The  <a href='https://www.astrobin.com/399094/J/?nc=user'>featured image</a>  was captured by the  <a href='https://www.nasa.gov/mission_pages/hubble/story/index.html'> Hubble Space Telescope</a>.   NGC 7714 is located about 130 million  <a href=' https://www.grc.nasa.gov/www/k-12/Numbers/Math/Mathematical_Thinking/how_long_is_a_light_year.htm'>light years</a>  away toward the constellation of the Two Fish  (<a href='https://en.wikipedia.org/wiki/Pisces_(constellation)'>Pisces</a>).   The <a href='ap150212.html'>interactions</a> between these galaxies  likely started about 150 million  <a href='http://en.wikipedia.org/wiki/Timeline_of_natural_history'>years ago</a>  and should continue for several hundred million  <a href='http://en.wikipedia.org/wiki/Timeline_of_the_far_future'>years more</a>, after which a  <a href='ap120604.html'>single central galaxy</a> may result.    "
+    },
+    "2019/10/08" :{
+        "title": "Sprite Lightning in HD",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='https://www.facebook.com/stephane.vetter.nuitsacrees'>Stephane Vetter</a> (<a href='http://www.twanight.org/newTWAN/index.asp'>TWAN</a>) "
+       },
+       "link": "https://apod.nasa.gov/apod/image/1910/SpritesHD_Vetter_1000.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label> This phenomenon occurs in the sky over our heads, not the sea.   It is a type of lightning known as red sprite, and  rarely has it ever been photographed in this detail.   Even though sprites have been recorded for over 30 years,  their root cause remains unknown.   Some <a href='https://www.nasa.gov/vision/earth/environment/30oct_lightning.html' >thunderstorms</a> have them, but most don't.  These mysterious bursts of light in the upper atmosphere momentarily resemble  <a href= 'https://en.wikipedia.org/wiki/Jellyfish#mediaviewer/File:Largelionsmanejellyfish.jpg' >gigantic jellyfish</a>.  A few years ago  <a href='ap141013.html'>high speed video</a>s  were taken detailing how red  <a href='https://en.wikipedia.org/wiki/Sprite_(lightning)' >sprites</a> actually develop.   The  <a href='https://www.facebook.com/stephane.vetter.nuitsacrees/posts/2751990581478732' >featured image</a> was captured last month in high definition from  <a href='https://en.wikipedia.org/wiki/Italy'>Italy</a>.   One unusual feature of  <a href='https://www.nasa.gov/vision/earth/environment/sprites.html' >sprites</a> is that they are relatively cold -- they operate more like long  <a href='https://en.wikipedia.org/wiki/Fluorescent_lamp' >fluorescent light tubes</a> than  <a href='https://en.wikipedia.org/wiki/Incandescent_light_bulb' >hot compact light bulbs</a>.   In general, red sprites take only a fraction of a second to occur and are  <a href='ap190225.html'>best seen</a> when  <a href='ap161205.html'>powerful thunderstorms</a> are visible from the side.   "
+    },
+    "2019/10/07" :{
+        "title": "Io Eclipse Shadow on Jupiter from Juno",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='https://www.nasa.gov/'>NASA</a>/<a     href='https://www.jpl.nasa.gov/'>JPL-Caltech</a>/<a     href='https://www.swri.org/'>SwRI</a>/<a     href='http://www.msss.com/'>MSSS</a>; <i> Processing: </i>  <a href='https://www.flickr.com/people/kevinmgill/'>Kevin M. Gill</a> "
+       },
+       "link": "https://apod.nasa.gov/apod/image/1910/JupiterShadow_JunoGill_1080.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label> What's that dark spot on Jupiter?  It's the shadow of  <a href='https://solarsystem.nasa.gov/planets/jupiter/overview/' >Jupiter</a>'s most volcanic moon  <a href='https://solarsystem.nasa.gov/moons/jupiter-moons/io/overview/' >Io</a>.  Since Jupiter shines predominantly by reflected sunlight,  anything that blocks that light  <a href='ap110102.html'>leaves a shadow</a>.   If you could somehow be in that shadow, you would see a  <a href='ap170820.html'>total eclipse of the Sun</a> by  <a href='https://www.google.com/maps/space/io/'>Io</a>.   <a href='ap140330.html'>Io</a>'s shadow is about  3600 kilometers across, roughly the same size as  <a href='ap160904.html'>Io</a> itself -- and only slightly larger than  <a href='ap160201.html'>Earth's Moon</a>.  The  <a href='https://www.missionjuno.swri.edu/news/moon-shadow' >featured</a>   <a href='https://www.flickr.com/photos/kevinmgill/48745739051/'>image</a> was  <a href='https://www.youtube.com/watch?v=yfh1a_K_6Yc'>taken</a>  last month by NASA's robotic  <a href='https://www.nasa.gov/mission_pages/juno/spacecraft/index.html' >Juno spacecraft</a> currently orbiting Jupiter.  About every two months,  <a href='https://www.youtube.com/watch?v=5F5aoC66cpY'>Juno swoops</a>  close by Jupiter, takes a lot of data and snaps a series of images --  some of which are  <a href='ap190908.html'>made into</a>  <a href='ap190205.html'>a video</a>.  Among <a href='https://www.youtube.com/watch?v=ES2zBbWqSl4' >many other things</a>, Juno has been measuring Jupiter's gravitational field, finding  <a href='https://img.huffingtonpost.com/asset/5bad12683c000032000b0e42.jpeg' >surprising</a> evidence that Jupiter may be mostly a liquid.  Under unexpectedly thick clouds, the Jovian giant may house a massive  <a href='https://en.wikipedia.org/wiki/Liquid_hydrogen'>liquid hydrogen</a>  region that extends all the way to the center.   "
+    },
+    "2019/10/06" :{
+        "title": "The Horsehead Nebula",
+       "credit": {
+           "subjects": ["José Jimenez Priego"],
+           "links": ["https://www.facebook.com/jose.jimenezjj"],
+       "altLinks": ""
+       },
+       "link": "https://apod.nasa.gov/apod/image/1910/JupiterShadow_JunoGill_1080.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label> The <a href='https://en.wikipedia.org/wiki/Horsehead_nebula'>Horsehead Nebula</a> is one of the most famous nebulae on the sky.    It is visible as the dark indentation to the red <a href='emission_nebulae.html'>emission nebula</a>  in the center of the above photograph.   The <a href='ap140728.html'>horse-head</a>  feature is dark because it is really an opaque <a href='ap030706.html'>dust</a> cloud that lies in front of the bright red <a href='https://en.wikipedia.org/wiki/Emission_nebula'>emission nebula</a>.  Like clouds in <a href='http://www.nasa.gov/mission_pages/sunearth/science/atmosphere-layers2.html' >Earth's atmosphere</a>, this cosmic cloud has assumed a <a href='http://www.brucevanpatter.com/cloudshapes.html' >recognizable shape</a> by chance.    After many thousands of years, the internal motions of the cloud will surely alter its appearance.   The emission <a href='ap061015.html'>nebula</a>'s red color is caused by  <a href='http://www.pbs.org/transistor/science/events/electron.html' >electrons</a> recombining with  <a href='http://hyperphysics.phy-astr.gsu.edu/hbase/particles/proton.html' >protons</a> to form <a href='http://periodic.lanl.gov/1.shtml'>hydrogen</a> atoms.   On the image left is the  <a href='ap141209.html'>Flame Nebula</a>, an orange-tinged nebula that also contains filaments of dark dust.  Just to the lower left of the Horsehead nebula  <a href='https://www.flickr.com/photos/astromet/21844852965/in/album-72157634385115181/'>featured picture</a> is a blueish <a href='reflection_nebulae.html'>reflection nebulae</a> that preferentially <a href='https://spaceplace.nasa.gov/blue-sky/en/'>reflects  the blue light</a> from  <a href='ap010318.html'>nearby stars</a>. "
+    },
+    "2019/10/05" :{
+        "title": "Jupiter and the Moons",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='https://www.instagram.com/capturing_the_cosmos/'>Derek Demeter</a> (<a href='https://www.seminolestate.edu/planet/'>Emil Buehler Planetarium</a>)  <br>  "
+       },
+       "link": "https://apod.nasa.gov/apod/image/1910/moonjupiter100319derekdemeter800.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label>  After sunset on October 3, some of the Solar System's largest moons stood low along the western horizon with <a href='https://www.nasa.gov/jupiter'>the largest planet</a>.  Just after nightfall, a pairing of the Moon approaching first quarter phase and Jupiter was captured in this telephoto field of view.  A blend of short and long exposures, it reveals <a href='https://en.wikipedia.org/wiki/ Suite_bergamasque#3._Clair_de_lune'>the familiar</a> face of our fair planet's own large natural satellite in stark sunlight and <a href='ap190926.html'>faint earthshine</a>.  At lower right are the ruling gas giant and its four Galilean moons.  Left to right, the tiny pinpricks of light are Ganymede, [Jupiter], Io, Europa, and Callisto.  Our own natural satellite appears to loom large because it's close, but Ganymede, Io, and Callisto are actually larger than Earth's Moon.  <a href='https://www.nasa.gov/europa'>Water world Europa</a> is only slightly smaller.  Of the Solar System's six <a href='http://www.ianridpath.com/moons.htm'>largest planetary satellites</a>, only Saturn's moon Titan, is missing from this scene.  <a href='https://www.skyandtelescope.com/observing/ this-weeks-sky-at-a-glance-october-4-12/'>But be sure</a> to check for large moons <a href='https://solarsystem.nasa.gov/news/1075/ 10-things-international-observe-the-moon-night/'>in your sky tonight</a>.  "
+    },
+    "2019/10/04" :{
+        "title": "InSight on a Cloudy Day",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='https://www.nasa.gov'>NASA</a>,  <a href='https://www.jpl.nasa.gov/'>JPL-Caltech</a>,  <a href='https://mars.nasa.gov/insight/'>Mars InSight</a>  <br>  "
+       },
+       "link": "https://apod.nasa.gov/apod/image/1910/PIA23180_raw.gif",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label>  <a href='https://www.jpl.nasa.gov/spaceimages/details.php?id=PIA23180'>Clouds drift through the sky</a> as the light fades near sunset in this three frame animated gif.  The scene was captured on sol 145 beginning around 6:30pm local time by a camera on the Mars InSight lander.  Of course, InSight's martian day, sol 145, corresponds to Earth calendar date April 25, 2019.  Under the 69 centimeter (2.3 foot) diameter dome in the foreground is the lander's sensitive <a href='https://mars.nasa.gov/insight/spacecraft/instruments/seis/'> seismometer SEIS</a> designed to detect marsquakes.  Earthquakes reveal internal structures on planet Earth, and so tremors detected by SEIS can explore beneath the martian surface.  In particular, two typical marsquakes were recorded by SEIS on <a href='https://soundcloud.com/nasa/quake-sol-173'>May 22 (sol 173)</a> and <a href='https://soundcloud.com/nasa/quake-sol-235'>July 25 (sol 235)</a>.  The subtle tremors from the Red Planet are at very low frequencies though, and for listening have to be processed into the audio frequency range.  In the sped up recordings external noises more prevalent on cool martian evenings and likely caused by mechanical shifts and contractions have been technically <a href='https://www.nasa.gov/feature/jpl/ nasas-insight-hears-peculiar-sounds-on-mars'>dubbed dinks and donks</a>.  "
+    },
+    "2019/10/03" :{
+        "title": "The Hydrogen Clouds of M33",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='http://www.naoj.org/Introduction/index.html'>Subaru Telescope</a>  (<a href='http://www.naoj.org/'>NAOJ</a>),  <a href='http://hla.stsci.edu/hla_welcome.html'>Hubble Space Telescope</a> -  <b> Image Processing: </b> <a href='http://www.robgendlerastropics.com/'>Robert Gendler</a>  <br>  Additional Data: <a href='http://wmo.byu.edu/'>BYU</a>, Robert Gendler, Johannes Schedler, Adam Block -  Copyright: Robert Gendler, Subaru Telescope, NAOJ  <br>  "
+       },
+       "link": "https://apod.nasa.gov/apod/image/1910/M33-Subaru-Gendler-1024.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label>  Gorgeous spiral galaxy M33 seems to have more than its fair share of glowing hydrogen gas.  A prominent member of the local group of galaxies, M33 is also known as the <a href='ap160917.html'>Triangulum Galaxy</a> and lies a mere 3 million light-years away.   The galaxy's inner 30,000 light-years or so are shown in this <a href='http://www.robgendlerastropics.com/M33-Subaru-Gendler.html'> magnificent 25 panel telescopic mosaic</a>.  Based on image data from space and ground-based telescopes, the portrait of M33 shows off the galaxy's reddish ionized hydrogen clouds or <a href='http://en.wikipedia.org/wiki/H_II_region'>HII regions</a>.  Sprawling along loose spiral arms that wind toward the core, <a href='http://hubblesite.org/newscenter/archive/releases/2003/30/'>M33's giant HII regions</a> are some of the largest known stellar nurseries, sites of the formation of short-lived but very massive stars.  Intense ultraviolet radiation from the luminous, massive stars ionizes the surrounding hydrogen gas and ultimately produces the characteristic red glow.  To enhance this image, broadband data were used to produce a color view of the galaxy and combined with narrowband data recorded through a hydrogen-alpha filter.  That filter transmits the light of the strongest visible hydrogen <a href='https://www.khanacademy.org/partner-content/nasa/ measuringuniverse/spectroscopy/a/absorptionemission-lines'>emission line</a>.  "
+    },
+    "2019/10/02" :{
+        "title": "Molecular Clouds in the Carina Nebula",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='https://www.nasa.gov'>NASA</a>, <a href='https://www.esa.int/'>ESA</a>, <a href=' https://www.nasa.gov/mission_pages/hubble/story/index.html'>Hubble</a>  "
+       },
+       "link": "https://apod.nasa.gov/apod/image/1909/McloudsCarina_Hubble_1080.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label> They are not alive -- but they are dying.  The unusual forms found in the <a href='ap190623.html'>Carina nebula</a>, a few of which are featured here,  might best be described as <a href='http://www.youtube.com/watch?v=ZGjwe-BCfms'>evaporating</a>.  Energetic light and winds from nearby stars are breaking apart the dark <a href='https://ui.adsabs.harvard.edu/abs/2003ARA%26A..41..241D/abstract' >dust grains</a> that make the  <a href='https://lafeber.com/mammals/wp-content/uploads/guinea-pig-px-2146091-900-300x300.jpg'>iconic form</a>s opaque.  Ironically the <a href= 'http://iopscience.iop.org/1538-3881/131/5/2580/fulltext/205118.text.html'>figures</a>, otherwise known as dark  <a href='ap120129.html'>molecular clouds</a> or bright rimmed  <a href='https://en.wikipedia.org/wiki/Bok_globule'>globules</a>, frequently create in their midst the very stars that later <a href='ap100426.html'>destroy them</a>.    The floating space structures pictured here by the orbiting <a href='http://hubblesite.org/the_telescope/hubble_essentials/' >Hubble Space Telescope</a> span a few light months.  The <a href='https://en.wikipedia.org/wiki/Carina_Nebula' >Great Nebula in Carina</a> itself spans about 30  <a href='https://spaceplace.nasa.gov/light-year/en/'>light years</a>,  lies about 7,500 light years away,  and can be seen with a small telescope  toward the constellation of Keel(<a href= 'https://chandra.harvard.edu/photo/constellations/carina.html' >Carina</a>).   "
+    },
+    "2019/10/01" :{
+        "title": "Black Hole Safety Video",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='https://www.nasa.gov/'>NASA</a>'s  <a href='https://www.nasa.gov/goddard'>GSFC</a>,  <a href='https://svs.gsfc.nasa.gov/'>SVS</a>; <i> Music: </i> Prim and Proper from  <a href='https://www.universalproductionmusic.com/'>Universal Production Music</a>  "
+       },
+       "link": "https://www.youtube.com/embed/aMTwtb3TVIk",
+       "linkType": "iframe",
+       "explanation": "<label class = 'explanation'>Explanation:</label> If you were a small one-eyed monster, would you want to visit a black hole?  Well the one in  <a href='https://svs.gsfc.nasa.gov/13322' >this video</a> does -- but should it?  No, actually, but since our little friend is insistent on going,  <a href='https://youtu.be/aMTwtb3TVIk'>the video</a>  informs it what black holes really are, and how to be as safe as possible when visiting.  <a href='https://science.nasa.gov/astrophysics/focus-areas/black-holes' >Black holes</a> are clumps of matter so dense that light cannot escape.  <a href='ap190414.html'>Pairs of black holes</a>,  each several times the mass of our  <a href='https://solarsystem.nasa.gov/solar-system/sun/overview/' >Sun</a>, have recently been  <a href='https://en.wikipedia.org/wiki/List_of_gravitational_wave_observations' >found to merge</a> by detection of unusual  <a href='https://www.ligo.caltech.edu/page/what-are-gw'>gravitational radiation</a>.   The  <a href='ap190820.html'>regions surrounding</a>  <a href='ap181203.html'>supermassive black holes</a>  in the centers of galaxies can light up as stars that near them get  <a href='ap151028.html'>shredded</a>.  The  <a href='https://en.wikipedia.org/wiki/List_of_nearest_black_holes' >closest known black hole</a> to the Earth is  <a href='https://en.wikipedia.org/wiki/A0620-00'>V616 Mon</a>,  which is about 3,300 light years away.  The best way for our monster friend to  <a href='http://s8.favim.com/orig/72/animals-cat-cats-hiding-Favim.com-673698.jpg' >stay safe</a>, the video informs, is to not go too close.   "
+   }  
     
 }
