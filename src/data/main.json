@@ -1,4 +1,26 @@
 {
+    "2020/03/07" :{
+        "title": "Pic du Midi Panorama ",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='http://www.astrosurf/lecureuil'>Patrick Lcureuil</a>  "
+       },
+       "link": "https://apod.nasa.gov/apod/image/2003/Pano_Robley2.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label>  A surreal night skyscape, this panorama stitched from 12 photos looks to the west at an evening winter sky over <a href='https://en.wikipedia.org/wiki/Pic_du_Midi_de_Bigorre'>Pic du Midi</a> Observatory, Pyrenees Mountains, Planet Earth.  Telescope domes and a tall communications tower inhabit the rugged foreground.  On the right, lights from Tarbes, France about 35 kilometers away impinge on the designated dark sky site though, but more distant <a href='ap160630.html'>terrestrial lights</a> seen toward the left are from cities in Spain.  Stars and nebulae of the northern winter's Milky Way <a href='ap171125.html'>arc through the sky above</a>.  Known to the planet's night skygazers, the Pleiades and Hyades star clusters still hang over the western horizon near center.  Captured in mid February the familiar stars of the constellation Orion are to the left and include the <a href='http://www.astronomerstelegram.org/?read=13512'>no longer fainting star Betelgeuse</a>.  "
+    },
+    "2020/03/06" :{
+        "title": "Mars Panorama from Curiosity ",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='http://www.nasa.gov/'>NASA</a>, <a href='http://www.jpl.nasa.gov/'>JPL-Caltech</a>, <a href='http://www.msss.com/'>MSSS</a>  "
+       },
+       "link": "https://apod.nasa.gov/apod/image/2003/PIA23623_fig1_600v.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label>  <a href='https://www.nasa.gov/feature/jpl/nasas-curiosity-mars-rover-snaps-its-highest-resolution-panorama-yet'>The Mars Rover named Curiosity</a> recorded high-resolution, 360 degree views of its location on Mars late last year.  The panoramic scene was stitched from over 1,000 images from Curiosity's Mast camera or Mastcam.  In this version, captured with Mastcam's medium angle lens, the rover's deck and robotic arm are in the foreground, stretched and distorted by the extreme wide perspective.  Just beyond the rover are regions of clay rich rock, evidence for an ancient watery environment, with a clear view toward more distant martian ridges and buttes.  Gale crater wall runs across the center (toward the north) in the background over 30 kilometers in the distance.  The upper reaches of Mt. Sharp are at the far right.  Images to construct the panorama were recorded over 4 consecutive sols between local noon and 2pm to provide consistent lighting.  <a href='https://mars.nasa.gov/resources/curiositys-1-8-billion-pixel-panorama/?site=msl'>Zoom in to the panoramic scene</a> and you can easily spot the shadow casting <a href='https://en.wikipedia.org/wiki/MarsDial'>sundial</a> mounted on rover's deck (right).  In July NASA plans to launch a <a href='https://mars.nasa.gov/mars2020/participate/name-the-rover/'>new rover to Mars named Perseverance.</a>  "
+    },
     "2020/03/05" :{
         "title": "The Light, the Dark, and the Dusty",
        "credit": {
