@@ -1,4 +1,15 @@
 {
+    "2020/03/09" :{
+        "title": "Milky Way and Zodiacal Light over Chile ",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='mailto: ponca . roman at gmail.com'>Roman Pona</a> (ht: <a href='https://www.muni.cz/en/about-us/organizational-structure/faculty-of-science'>Masaryk U.</a>) "
+       },
+       "link": "https://apod.nasa.gov/apod/image/2003/ZodiacalMw_Ponca_960.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label> What is the band of light connecting the ground to the Milky Way?   <a href='https://en.wikipedia.org/wiki/Zodiacal_light'>Zodiacal light</a> --  a stream of dust that orbits the  <a href='https://solarsystem.nasa.gov/solar-system/sun/overview/'>Sun</a> in the inner  <a href='https://solarsystem.nasa.gov/solar-system/our-solar-system/in-depth/' >Solar System</a>.  It is most easily seen just before sunrise, where it has been called a  <a href='ap120116.html'>false dawn</a>, or just after sunset.  The origin of zodiacal dust remains a  <a href='https://ui.adsabs.harvard.edu/abs/2002Icar..158..360H/abstract' >topic of research</a>, but is hypothesized to result from  <a href='ap130812.html'>asteroid</a> collisions and  <a href='ap200127.html'>comet</a>  <a href='ap170409.html'>tails</a>.   The featured wide-angle image shows the central band of our  <a href='http://www.atlasoftheuniverse.com/galaxy.html'>Milky Way Galaxy</a>  arching across the top, while the  <a href='https://en.wikipedia.org/wiki/Large_Magellanic_Cloud'>Large Magellanic Cloud</a> (LMC), a  <a href='https://en.wikipedia.org/wiki/Satellite_galaxies_of_the_Milky_Way#Map_with_clickable_regions' >satellite galaxy to our Milky Way</a>, is visible on the far left.  The image is a combination of <a href='https://external-preview.redd.it/livb5VRT7pdr0Snw1_gBsUwdvIdUZC9qgye-CIn8xy0.jpg?width=640&crop=smart&auto=webp&s=11e2b2e2db6388775e74b427c42ec8c11646b686' >over 30 exposures</a> taken last July near  <a href='https://www.youtube.com/watch?v=OXsJAsfEmtU'>La Serena</a>  among the mountains of  <a href='https://en.wikipedia.org/wiki/Chile'>Chile</a>.   During the next two months,  <a href='https://skyandtelescope.org/observing/see-shoot-zodiacal-light02042105/' >zodiacal light</a> can appear quite prominent in northern skies just after sunset.   "
+    },
     "2020/03/08" :{
         "title": "Wolf-Rayet Star 124: Stellar Wind Machine ",
        "credit": {
