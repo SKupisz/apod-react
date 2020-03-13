@@ -1,4 +1,15 @@
 {
+    "2020/03/13" :{
+        "title": "Starry Night by Jean-Francois Millet ",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='https://artgallery.yale.edu/collections/objects/52945'>Yale University Art Gallery</a> -  <i>Text:</i> Letty Bonnell  "
+       },
+       "link": "https://apod.nasa.gov/apod/image/2003/ag-obj-52945-001-1024b05.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label>  <a href='http://interactive.britishart.yale.edu/critique-of-reason/394/starry-night'>A dramatic nocturnal landscape from around 1850</a>, this oil painting is the work of <a href='https://www.theartstory.org/artist/millet-jean-francois/'>French artist Jean-Francois Millet</a>.  In the dark and atmospheric night sky are shooting stars, known too as meteors, above a landscape showing a path through the faintly lit countryside that leads toward  trees and a cart in silhouette on the horizon.  Millet was raised in a farming family in Normandy and is known for his paintings of rural scenes and peasant life.  This <i>Starry Night</i> was painted after the artist moved to Barbizon, about 30 kilometers southeast of any 19th century <a href='https://nightsky.jpl.nasa.gov/news-display.cfm?News_ID=745'>light pollution</a> from Paris.  Millet wrote to his brother at this time, 'If only you knew how beautiful the night is ... the calm and grandeur of it are so awesome that I find that I actually feel overwhelmed.'  Dutch artist Vincent van Gogh was an admirer of Millet's work, and later <a href='ap191023.html'>also painted</a> two dramatic <a href='ap100921.html'>starry nights</a>.  "
+    },
     "2020/03/12" :{
         "title": "Falcon 9 Boostback ",
        "credit": {
