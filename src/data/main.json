@@ -1,4 +1,15 @@
 {
+    "2020/03/17" :{
+        "title": "M77: Spiral Galaxy with an Active Center ",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='https://hla.stsci.edu/'>Hubble</a>, <a href='https://www.nasa.gov/'>NASA</a>, <a href='https://www.esa.int/'>ESA</a>; <i> Processing &  <a href='https://creativecommons.org/licenses/by/2.0/'>License</a>: </i> <a href='https://geckzilla.com/'>Judy Schmidt</a>  "
+       },
+       "link": "https://apod.nasa.gov/apod/image/2003/M77Halpha_HubbleSchmidt_960.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label> What's happening in the center of nearby spiral galaxy M77?  The face-on galaxy lies a mere 47 million  <a href='https://chandra.harvard.edu/photo/cosmic_distance.html' >light-years</a> away toward the constellation of the Sea Monster  (<a href='https://en.wikipedia.org/wiki/Cetus'>Cetus</a>).   At that estimated distance, this gorgeous  <a href='https://ned.ipac.caltech.edu/level5/March02/Gordon/Gordon2.html' >island universe</a> is about 100 thousand light-years across.   Also known as  <a href='https://en.wikipedia.org/wiki/Messier_77'>NGC 1068</a>,  its compact and very bright core is  well studied by astronomers exploring the mysteries of  <a href='ap130312.html'>supermassive black holes</a> in active  <a href='https://en.wikipedia.org/wiki/Seyfert_galaxy'>Seyfert galaxies</a>.   M77 and its active core glows bright at  <a href='https://science.nasa.gov/ems/11_xrays'>x-ray</a>,  <a href='https://science.nasa.gov/ems/10_ultravioletwaves'>ultraviolet</a>,  <a href='https://science.nasa.gov/ems/09_visiblelight'>visible</a>,  <a href='https://science.nasa.gov/ems/07_infraredwaves'>infrared</a>, and  <a href='https://science.nasa.gov/ems/05_radiowaves'>radio</a> wavelengths.   The  <a href='https://www.flickr.com/photos/geckzilla/15679524440/' >featured sharp image</a> of M77 was taken by the  <a href='https://www.nasa.gov/mission_pages/hubble/story/index.html' >Hubble Space Telescope</a> and is dominated by the (visible)  <a href='http://www.astronomyknowhow.com/hydrogen-alpha.htm'>red light</a>  emitted by <a href='https://periodic.lanl.gov/1.shtml'>hydrogen</a>.   The image shows details of the spiral's  <a href='ap161109.html'>winding spiral arms</a> as traced by  <a href='ap130831.html'>obscuring dust clouds</a>,  and red-tinted star forming regions close in to the galaxy's luminous core.   "
+    },
     "2020/03/16" :{
         "title": "A Moon Dressed Like Saturn ",
        "credit": {
