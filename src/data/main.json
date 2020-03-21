@@ -1,4 +1,15 @@
 {
+    "2020/03/21" :{
+        "title": "Comet ATLAS and the Mighty Galaxies ",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='http://cara.uai.it/'>CARA Project</a>, <a href='http://www.castfvg.it/'>CAST</a>)  "
+       },
+       "link": "https://apod.nasa.gov/apod/image/2003/C2019Y4_200318_FB1024.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label>  <a href='https://minorplanetcenter.net/mpec/K20/K20AB2.html'>Comet ATLAS C/2019 Y4</a> was discovered by the NASA funded <a href='https://ui.adsabs.harvard.edu/abs/2014htu..conf...65D/abstract'>Asteroid Terrestrial-impact Last Alert System</a>, the last comet discovery reported in 2019.  Now growing brighter in northern night skies, the comet's pretty greenish coma is at the upper left of <a href='https://spaceweathergallery.com/indiv_upload.php?upload_id=160047'>this telescopic skyview</a> captured from a remotely operated observatory in New Mexico on March 18.  At lower right are <a href='ap160203.html'>M81 and M82</a>, well-known as large, gravitationally interacting galaxies.  Seen through faint dust clouds above the Milky Way, the galaxy pair lies about 12 million light-years distant, toward the constellation Ursa Major.  In bound Comet ATLAS is about 9 light-minutes from Earth, still beyond the orbit of Mars.  The comet's elongated orbit is similar to orbit of the <a href='https://en.wikipedia.org/wiki/List_of_near-parabolic_comets'>Great Comet of 1844</a> though, a trajectory that will return this comet to the inner Solar System in about 6,000 years.   <a href='http://astro.vanbuitenen.nl/comet/2019Y4'>Comet ATLAS</a> will reach a perihelion or closest approach to the Sun on May 31 inside the orbit of Mercury and may become a naked-eye comet <a href='https://www.space.com/comet-atlas-may-be-brightenting.html'>in the coming days</a>.  "
+    },
     "2020/03/20" :{
         "title": "Morning, Planets, Moon and Montreal ",
        "credit": {
