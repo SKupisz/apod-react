@@ -1,4 +1,15 @@
 {
+    "2020/03/25" :{
+        "title": "Star Forming Region S106 ",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='https://www.nasa.gov/'>NASA</a>, <a href='https://www.esa.int/'>ESA</a>, <a href='https://hla.stsci.edu/'>Hubble Legacy Archive</a>; <b> Processing & Copyright: </b>  <a href='https://www.flickr.com/photos/163350986@N06/'>Utkarsh Mishra</a>  "
+       },
+       "link": "https://apod.nasa.gov/apod/image/2003/S106_Mishra_960.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label> Massive star IRS 4 is beginning to spread its wings.    Born only about 100,000 years ago,  material streaming out from this  <a href='https://science.nasa.gov/astrophysics/focus-areas/how-do-stars-form-and-evolve/' >newborn star</a> has formed the nebula dubbed Sharpless 2-106 Nebula (S106),  <a href='https://www.flickr.com/photos/163350986@N06/43790342142/in/dateposted-public/' >featured here</a>.    A large disk of  <a href='ap030706.html'>dust</a> and gas orbiting  Infrared Source 4 (IRS 4), visible in brown near the image center,  gives the nebula an <a href='ap150510.html'>hourglass</a> or  <a href='ap141001.html'>butterfly</a> shape.    <a href='https://www.mpia-hd.mpg.de/IRCAM/OPRIME/Gallery/ASTRO/S106.html' >S106</a> gas near IRS 4 acts as an  <a href='emission_nebulae.html'>emission nebula</a>  as it emits light after being  <a href='https://en.wikipedia.org/wiki/Ionization'>ionized</a>, while  <a href='https://ned.ipac.caltech.edu/level5/Mathis/Mathis1.html'>dust</a>  far from  <a href='https://ui.adsabs.harvard.edu/abs/2009AJ....137.3149S/abstract' >IRS 4</a> reflects light from the central star and so acts as a  <a href='reflection_nebulae.html'>reflection nebula</a>.    Detailed inspection of a relevant   <a href='ap111107.html'>infrared image</a> of S106   reveal hundreds of low-mass  <a href='https://en.wikipedia.org/wiki/Brown_dwarf' >brown dwarf stars</a> lurking in  <a href='https://ui.adsabs.harvard.edu/abs/1998AJ....116.1868B/abstract' >the nebula's</a> gas.    S106 spans about 2 <a href= 'http://starchild.gsfc.nasa.gov/docs/StarChild/questions/question19.html' >light-years</a> and lies about 2000 light-years away toward the   <a href='https://en.wikipedia.org/wiki/Constellation'>constellation</a> of  the Swan (<a href= 'https://en.wikipedia.org/wiki/Cygnus_(constellation)'>Cygnus</a>).   "
+    },
     "2020/03/24" :{
         "title": "A Black Hole Disrupts a Passing Star ",
        "credit": {
