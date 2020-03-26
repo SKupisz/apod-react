@@ -1,4 +1,15 @@
 {
+    "2020/03/26" :{
+        "title": "Andromeda Station ",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='https://ralf-rohner.pixels.com/'>Ralf Rohner</a>  "
+       },
+       "link": "https://apod.nasa.gov/apod/image/2003/AndromedaStation1049.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label>  This surreal picture isn't from a special effects sci-fi movie.  It is a digital composite of frames of the <a href='ap130801.html'>real Andromeda Galaxy</a>, also known as M31, rising over a real mountain.  Exposures tracking the galaxy and background stars have been digitally combined with separate exposures of the foreground terrain.  All background and foreground <a href='image/2003/Weisshorn_Andromeda_final.gif'>exposures were made back to back</a> with the same camera and telephoto lens on the same night from the same location.  In the 'Deepscape' combination they produce a stunning image that reveals a range of brightness and color that your eye can't quite see on its own.  Still, it does look like you could ride a cable car up this mountain and get off at the station right next to Andromeda.  But at 2.5 million light-years from Earth the big beautiful spiral galaxy really is a little out of reach as a destination.  Don't worry, though.  Just wait 5 billion years and the <a href='https://hubblesite.org/contents/news-releases/2012/news-2012-20.html'>Andromeda Galaxy will come to you</a>.  This Andromeda Station is better known as Weisshorn, the highest peak of the ski area in Arosa, Switzerland.  "
+    },
     "2020/03/25" :{
         "title": "Star Forming Region S106 ",
        "credit": {
