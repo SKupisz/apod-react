@@ -1,4 +1,15 @@
 {
+    "2020/03/28" :{
+        "title": "Stars Trail over Ragusa ",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='https://www.facebook.com/giovanni.tumino.58'>Gianni Tumino</a>  "
+       },
+       "link": "https://apod.nasa.gov/apod/image/2003/STARTRAILRAGUSA14_03_2020_14mm1024px.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label>  In trying times, stars still <a href='http://www.twanight.org/'>trail in the night</a>.  Taken on March 14, this night skyscape was made by combining 230 exposures each 15 seconds long to follow the stars' circular paths.  The camera was fixed to a tripod on an isolated terrace near the center of Ragusa, Italy, on the island of Sicily.  But the night sky was shared around <a href='https://earthobservatory.nasa.gov/blogs/earthmatters/'>the rotating planet</a>.  A friend to celestial navigators and astrophotographers alike <a href='ap110514.html'>Polaris, the north star</a>, makes the short bright trail near the center of the concentric <a href='https://www.nasa.gov/specials/nasaathome/index.html'>celestial arcs</a>.  "
+    }, 
     "2020/03/27" :{
         "title": "A Little Drop of Galaxy ",
        "credit": {
