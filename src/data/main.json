@@ -1,4 +1,15 @@
 {
+    "2020/04/03" :{
+        "title": "The Traffic in Taurus",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='https://www.lionelmajzik.com/'>Lionel Majzik</a>"
+       },
+       "link": "https://apod.nasa.gov/apod/image/2004/TrafficTaurusLionelMajzik_2400.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label>  There's a traffic jam in Taurus lately.  On April 1, this <a href='ap200402.html'>celestial frame</a> from slightly hazy skies over Tapiobicske, Hungary recorded an impressive pile up toward the zodiacal constellation of the Bull and the Solar System's ecliptic plane.  Streaking right to left the <a href='https://spotthestation.nasa.gov/'>International Space Station</a> speeds across the bottom of the telescopic field of view.  <a href='https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury'>Wandering about</a> as far from the Sun in planet Earth's skies as it can get, inner planet Venus is bright and approaching much slower, overexposed at the right.  Bystanding at the upper left are the sister stars of the Pleiades.  No one has been injured in the close encounter though, because it really isn't very close.  Continuously occupied since November 2000, the space station orbits some 400 kilometers <a href='ap200104.html'>above the planet's surface</a>.  Venus, currently the brilliant evening star, is almost 2/3 of an <a href='https://earthsky.org/space/what-is-the-astronomical-unit'>astronomical unit away</a>.  A more permanent resident of Taurus, the Pleiades star cluster is <a href='ap191107.html'>400 light-years distant</a>."
+    },
     "2020/04/02" :{
         "title": "Venus and the Pleiades in April ",
        "credit": {
