@@ -1,4 +1,15 @@
 {
+    "2020/04/04" :{
+        "title": "Venus and the Sisters ",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='http://astropixels.com/index.html'>Fred Espenak</a> (<a href='http://astropixels.com/bifrost/bifrost.html'>Bifrost Astronomical Observatory</a>)  "
+       },
+       "link": "https://apod.nasa.gov/apod/image/2004/VenusM45-2020Apr02-105x.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label>  <a href='https://www.nasa.gov/specials/nasaathome/index.html'>After wandering</a> about as far from the Sun on the sky as Venus can get, the brilliant evening star is crossing paths with the sister stars of the Pleiades cluster.  Look west after sunset and you can share <a href='ap200402.html'>the ongoing</a> conjunction <a href='https://earthsky.org/astronomy-essentials/photos-how-to-see-venus-pleaides-apr-2020-conjunction'>with skygazers</a> around the world.  Taken on April 2, this celestial group photo captures the view from Portal, Arizona, USA.  Even bright naked-eye Pleiades stars prove to be much fainter than Venus though.  <a href='ap191107.html'>Apparent in</a> deeper telescopic images, the cluster's dusty surroundings and familiar bluish reflection nebulae aren't quite visible, while brighter Venus itself is almost overwhelming in the single exposure.  And while Venus and the Sisters do look a little star-crossed, their spiky appearance is the <a href='http://en.wikipedia.org/wiki/Diffraction_spike'>diffraction</a> pattern caused by multiple leaves in the aperture of the telephoto lens.  The last similar conjunction of Venus and Pleiades occurred <a href='ap120407.html'>nearly 8 years ago</a>.  "
+    },
     "2020/04/03" :{
         "title": "The Traffic in Taurus",
        "credit": {
