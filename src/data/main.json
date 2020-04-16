@@ -1,4 +1,15 @@
 {
+    "2020/04/16" :{
+        "title": "Comet ATLAS Breaks Up",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='http://nao-rozhen.org/index_en.html'>NAO Rozhen</a>), Velimir Popov, Emil Ivanov (<a href='http://www.irida-observatory.org/'>Irida Observatory</a>)  "
+       },
+       "link": "https://apod.nasa.gov/apod/image/2004/C2019Y4_20.04.13_1100px.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label>  <a href='ap200321.html'>Cruising through</a> the inner solar system, Comet ATLAS C2019/Y4 has apparently <a href='http://www.astronomerstelegram.org/?read=13620'>fragmented</a>.  Multiple separate condensations within its diffuse coma are visible in <a href='http://www.irida-observatory.org/CCD/C2019Y4_2020.04.13/C2019Y4_20.04.13.html'>this telescopic close-up</a> from April 12, composed of frames tracking the comet's motion against trailing background stars.  Discovered at the end of December 2019, this comet ATLAS showed a remarkably rapid increase in brightness in late March.  Northern hemisphere <a href='https://solarsystem.nasa.gov/asteroids-comets-and-meteors/comets/overview/'>comet watchers</a> held out hope  that it would become a bright nake-eye comet as it came closer to Earth in late April and May.  <a href='https://skyandtelescope.org/astronomy-news/comet-atlas-will-it-become-a-naked-eye-object/'>But fragmenting ATLAS</a> is slowly <a href='http://www.aerith.net/comet/catalog/2019Y4/2019Y4.html'>fading</a> in northern skies.  <a href='ap060504.html'>The breakup</a> of comets is not uncommon though.  This comet ATLAS is in an orbit similar to the Great Comet of 1844 (<a href='https://en.wikipedia.org/wiki/List_of_near-parabolic_comets'>C/1844 Y1</a>) and both may be fragments of a single larger comet.  "
+    },
     "2020/04/15" :{
         "title": "A Cosmic Triangle ",
        "credit": {
