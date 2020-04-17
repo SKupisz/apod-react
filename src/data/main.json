@@ -1,4 +1,15 @@
 {
+    "2020/04/17" :{
+        "title": "The Windmill and the Star Trails",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='mailto: astrojagh [at] gmail [dot] com'>Antonio Gonzalez</a>  "
+       },
+       "link": "https://apod.nasa.gov/apod/image/2004/WindmillStarTrails1024.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label>  Stars can't turn these old wooden arms, but it does look like they might in this scene <a href='https://www.nasa.gov/content/earth-day-2020'>from a rotating planet</a>.  The well-composed night skyscape was recorded from  Garafia, a municipality on the island of La Palma, Canary Islands, <a href='https://earthobservatory.nasa.gov/images/81421/trailing-the-canaries'>planet Earth</a>.  The center of the once working windmill, retired since 1953, is lined-up with the <a href='ap131023.html'>north celestial pole</a>, the planet's rotation axis projected on to the northern sky.  From a camera fixed to a tripod, the star trails are a reflection of the planet's rotation traced in a digital composite of 39 sequential exposures each 25 seconds long.  Brought out by highlighting the final exposure in the sequence, the stars themselves appear at the ends of their short concentric arcs.  A faint band of winter's Milky Way and even a diffuse glow from our neighboring Andromeda Galaxy also shine <a href='ap150110.html'>in the night</a>.  "
+    },
     "2020/04/16" :{
         "title": "Comet ATLAS Breaks Up",
        "credit": {
