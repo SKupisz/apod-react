@@ -1,4 +1,15 @@
 {
+    "2020/04/18" :{
+        "title": "Just Another Day on Aerosol Earth ",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='https://earthobservatory.nasa.gov/'>NASA Earth Observatory</a>, <a href='https://gmao.gsfc.nasa.gov/GMAO_products/'>GEOS FP</a>, Joshua Stevens   "
+       },
+       "link": "https://apod.nasa.gov/apod/image/2004/atmosphere_geo5_2018235_eq1200.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label>  <a href='https://earthobservatory.nasa.gov/images/92654/just-another-day-on-aerosol-earth'>It was just another day on aerosol Earth.</a>  For August 23, 2018, the identification and distribution of <a href='https://earthobservatory.nasa.gov/global-maps/MODAL2_M_AER_OD'>aerosols</a> in the Earth's atmosphere is shown in this dramatic, planet-wide digital visualization.  Produced in real time, the Goddard Earth Observing System Forward Processing (<a href='https://gmao.gsfc.nasa.gov/GMAO_products/'>GEOS FP</a>) model relies on a combination of <a href='https://www.nasa.gov/topics/earth/overview/index.html'>Earth-observing</a> satellite and ground-based data to calculate the presence of types of aerosols, tiny solid particles and liquid droplets, as they circulate above the entire planet.  This August 23rd model shows black carbon particles in red from combustion processes, like smoke from the fires in the United States and Canada, spreading across large stretches of North America and Africa.  Sea salt aerosols are in blue, swirling above threatening typhoons near South Korea and Japan, and the hurricane looming near Hawaii.  Dust shown in purple hues is blowing over African and Asian deserts.  The location of cities and towns can be found from the concentrations of lights based on satellite image data of the <a href='ap170709.html'>Earth at night</a>.  "
+    },
     "2020/04/17" :{
         "title": "The Windmill and the Star Trails",
        "credit": {
