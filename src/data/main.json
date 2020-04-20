@@ -1,4 +1,15 @@
 {
+    "20/04/20" :{
+        "title": "IC 2944: The Running Chicken Nebula ",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='https://www.flickr.com/photos/juanfilas/'>Juan Filas</a> "
+       },
+       "link": "https://apod.nasa.gov/apod/image/2004/IC2944_Filas_960.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label> To some, it looks like a  <a href='http://www.pbase.com/image/135786665'>giant</a>  <a href='https://youtu.be/jPyN3K1Up6c?t=5'>chicken running</a> across the sky.  To others, it looks like a gaseous nebula where  <a href='https://jwst.nasa.gov/birth.html'>star formation</a> takes place.  Cataloged as <a href='https://en.wikipedia.org/wiki/IC_2944' >IC 2944</a>, the  <a href='https://apod.nasa.gov/cgi-bin/apod/apod_search?tquery=chicken' >Running Chicken Nebula</a> spans about 100 light years and lies about 6,000  <a href='https://www.grc.nasa.gov/www/k-12/Numbers/Math/Mathematical_Thinking/how_long_is_a_light_year.htm' >light years</a> away toward the constellation of the  <a href='http://www.greekmythology.com/Myths/Creatures/Centaur/centaur.html' >Centaur</a> (Centaurus).   The <a href='https://www.flickr.com/photos/juanfilas/48525227762/' >featured image</a>, shown in  <a href='http://cincovidas.com/wp-content/uploads/2011/12/BPA-Methylparaben-Tamoxifen.jpg'>scientifically assigned colors</a>, was captured recently in a 12-hour exposure.  The <a href='http://asterisk.apod.com/viewtopic.php?f=24&t=18009' >star cluster</a> <a href='https://en.wikipedia.org/wiki/Per_Collinder'>Collinder</a>  <a href='https://en.wikipedia.org/wiki/249_(number)'>249</a> is visible embedded in the nebula's glowing gas.   Although difficult to discern here, several dark  <a href='https://en.wikipedia.org/wiki/Molecular_cloud'>molecular clouds</a> with  <a href='ap081228.html'>distinct shapes</a> can be  <a href='ap140305.html'>found inside</a> the nebula.   "
+    },
     "2020/04/19" :{
         "title": "Cassini Approaches Saturn ",
        "credit": {
