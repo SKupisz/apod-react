@@ -1,4 +1,15 @@
 {
+    "2020/04/21" :{
+        "title": "Eye on the Milky Way ",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='http://www.miguelclaro.com/wp/'>Miguel Claro</a> (<a href='http://www.twanight.org/claro'>TWAN</a>, <a href='http://www.darkskyalqueva.com/'>Dark Sky Alqueva</a>) "
+       },
+       "link": "https://apod.nasa.gov/apod/image/2004/EyeOnMW_Claro_960.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label> Have you ever had  <a href='https://www.dictionary.com/browse/stars-in-one-s-eyes--have'>stars in your eyes</a>?  It appears that the eye on the left does, and moreover it appears to be gazing at even more stars.  The  <a href='https://www.miguelclaro.com/wp/portfolio/from-ojos-del-salar-a-martian-eye-looks-deep-into-our-milky-way-galaxy/'>featured 27-frame mosaic</a> was taken last July from  <a href='https://youtu.be/KQv2h1jEN2s?t=66'>Ojas de Salar</a> in the  <a href='https://www.youtube.com/watch?v=aj7nxSCVG9Y'>Atacama Desert</a> of  <a href='https://en.wikipedia.org/wiki/Chile'>Chile</a>.   The eye is actually a small  <a href='ap191104.html'>lagoon</a> captured reflecting the  <a href='ap200408.html'>dark night sky</a> as the Milky Way Galaxy arched overhead.  The seemingly smooth band of the  <a href='https://solarsystem.nasa.gov/resources/285/the-milky-way-galaxy/' >Milky Way</a> is really composed of billions of stars, but decorated with filaments of light-absorbing dust and  <a href='https://apod.nasa.gov/apod/emission_nebulae.html'>red-glowing nebulas</a>.  Additionally, both  <a href='https://solarsystem.nasa.gov/planets/jupiter/overview/'>Jupiter</a>  (slightly left the galactic arch) and  <a href='https://solarsystem.nasa.gov/planets/saturn/overview/'>Saturn</a>  (slightly to the right) are visible.   The lights of small towns dot the unusual vertical horizon.   The <a href='ap161005.html'>rocky terrain</a> around the  lagoon appears to some more like the surface of  <a href='https://solarsystem.nasa.gov/planets/mars/overview/'>Mars</a> than our  <a href='https://www.nasa.gov/press-release/nasa-marks-earth-day-s-50th-anniversary-with-earthdayathome' >Earth</a>.  "
+    },
     "20/04/20" :{
         "title": "IC 2944: The Running Chicken Nebula ",
        "credit": {
