@@ -1,4 +1,15 @@
 {
+    "2020/04/22" :{
+        "title": "Planet Earth at Twilight ",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='http://spaceflight.nasa.gov/station/crew/exp2/index.html'>ISS Expedition 2 Crew</a>, <a href='http://eol.jsc.nasa.gov/'>Gateway to Astronaut Photography of Earth</a>, <a href='http://www.nasa.gov/'>NASA</a>  "
+       },
+       "link": "https://apod.nasa.gov/apod/image/2004/ISS002-E-7377_1024c.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label>  No sudden, sharp boundary marks the passage of day into night in <a href='http://eol.jsc.nasa.gov/scripts/sseop/ photo.pl?mission=ISS002&roll=E&frame=7377'>this gorgeous view</a> of ocean and clouds over <a href='https://earthobservatory.nasa.gov/'>our fair planet Earth</a>.  Instead, the shadow line or terminator is diffuse and shows the gradual transition to darkness we experience as twilight.  With the Sun illuminating the scene from the right, the cloud tops reflect gently reddened <a href='http://www.webexhibits.org/causesofcolor/14B.html'>sunlight filtered</a> through the dusty troposphere, the lowest layer of the planet's nurturing atmosphere.  A clear high altitude layer, visible along the dayside's upper edge, <a href='http://webexhibits.org/causesofcolor/14.html'>scatters blue</a> sunlight and fades into the blackness of space.  This picture was taken in June of 2001 from the International Space Station orbiting at an altitude of 211 nautical miles.  Of course from home, <a href='https://climate.nasa.gov/earth-now/#/'>you can check out the Earth Now.</a>  "
+    },
     "2020/04/21" :{
         "title": "Eye on the Milky Way ",
        "credit": {
