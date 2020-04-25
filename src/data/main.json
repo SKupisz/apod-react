@@ -1,4 +1,15 @@
 {
+    "2020/04/25" :{
+        "title": "Hubble's Cosmic Reef ",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='https://www.nasa.gov/'>NASA</a>, <a href='http://www.spacetelescope.org/'>ESA</a>, <a href='http://www.stsci.edu/'>STScI</a>  "
+       },
+       "link": "https://apod.nasa.gov/apod/image/2004/STSCI-H-p2016a-z-1000x687.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label>  <a href='https://hubblesite.org/contents/media/videos/2020/16/1277-Video?news=true'>These bright ridges of interstellar gas</a> and dust are bathed in energetic starlight.  With its sea of young stars, the massive star-forming region NGC 2014 has been dubbed the Cosmic Reef.  Drifting just off shore, the smaller NGC 2020, is an expansive blue-hued structure erupting from a single central <a href='ap200308.html'>Wolf-Rayet star</a>, 200,000 times brighter than the Sun.  <a href='https://hubblesite.org/contents/media/images/2020/16/4647-Image?news=true'>The cosmic frame</a> spans some 600 light-years within the <a href='ap190503.html'>Large Magellanic Cloud</a> 160,000 light-years away, a satellite galaxy of our Milky Way.  A magnificent Hubble Space Telescope portrait, the image was released this week as part of a celebration to mark Hubble's 30th year <a href='https://hubblesite.org/contents/news-releases/2020/news-2020-16'>exploring the Universe from Earth orbit</a>.  "
+    },
     "2020/04/24" :{
         "title": "Around the World at Night ",
        "credit": {
