@@ -1,4 +1,15 @@
 {
+    "2020/04/26" :{
+        "title": "Edwin Hubble Discovers the Universe ",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='https://obs.carnegiescience.edu/'>Carnegie Institution for Science</a>   "
+       },
+       "link": "https://apod.nasa.gov/apod/image/2004/HubbleVarOrig_Carnegie_960.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label> How big is our universe?  This very question,  <a href='http://adsbit.harvard.edu/cgi-bin/nph-iarticle_query?1995PASP%2E%2E107%2E1133T' >among others</a>,  was debated by two leading astronomers 100 years ago today in what has become known as  <a href='https://apod.nasa.gov/diamond_jubilee/debate_1920.html'>astronomy's Great Debate</a>.   Many astronomers then believed that our  <a href='https://solarsystem.nasa.gov/resources/285/the-milky-way-galaxy/' >Milky Way Galaxy</a> was the entire universe.   Many others, though, believed that our galaxy was just  <a href='ap020901.html'>one of many</a>.   In the  <a href='https://en.wikipedia.org/wiki/Great_Debate_(astronomy)'>Great Debate</a>,  each argument was detailed, but no consensus was reached.   The answer came over three years later with the detected variation  of single spot in the  <a href='ap170303.html'>Andromeda Nebula</a>, as shown on the  <a href='https://obs.carnegiescience.edu/PAST/m31var' >original glass discovery plate digitally reproduced here</a>.  When <a href='https://en.wikipedia.org/wiki/Edwin_Hubble'>Edwin Hubble</a>  compared images, he noticed that this  <a href='ap960406.html'>spot varied</a>, and so wrote 'VAR!' on the plate.   The best explanation, Hubble knew, was that this spot was the  <a href='https://hubblesite.org/contents/media/images/2011/15/2851-Image.html' >image of a variable star</a> that was very far away.  So M31 was really the  <a href='ap190909.html'>Andromeda <i> Galaxy </i></a> --  a galaxy possibly similar to our own.   The  <a href='https://obs.carnegiescience.edu/PAST/m31var'>featured image</a>  may not be pretty, but the variable spot on it  <a href='https://youtu.be/Fv4gWPurN9k?t=1582'>opened a door</a>  through which humanity gazed knowingly, for the first time, into a  <a href='ap200405.html'>surprisingly vast cosmos</a>.  "
+    },
     "2020/04/25" :{
         "title": "Hubble's Cosmic Reef ",
        "credit": {
