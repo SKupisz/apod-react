@@ -1,4 +1,15 @@
 {
+    "2020/04/28" :{
+        "title": "The Kepler-90 Planetary System ",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='https://www.nasa.gov/ames'>NASA Ames</a>, Wendy Stenzel "
+       },
+       "link": "https://apod.nasa.gov/apod/image/2004/Kepler90Illustration_Kepler_1080.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label> Do other stars have  <a href='https://apod.nasa.gov/debate/debate100th.html'>planetary systems like our own</a>?  Yes -- one such system is  <a href='https://www.jpl.nasa.gov/spaceimages/details.php?id=PIA22193' >Kepler-90</a>.  Cataloged by the   <a href='https://www.nasa.gov/mission_pages/kepler/spacecraft/index.html' >Kepler satellite</a> that operated from Earth orbit between 2009 and 2018,   <a href='https://www.jpl.nasa.gov/news/news.php?release=2017-321' >eight planets</a> were discovered, giving Kepler-90  the same number of known planets as our  <a href='https://solarsystem.nasa.gov/solar-system/our-solar-system/overview/' >Solar System</a>.  Similarities between Kepler-90 and our system include a  <a href='https://en.wikipedia.org/wiki/G-type_main-sequence_star' >G-type star</a> comparable to our Sun, rocky planets comparable to our Earth,  and large planets comparable in size to  <a href='ap170523.html'>Jupiter</a> and  <a href='ap200419.html'>Saturn</a>.  Differences include that all of the known  <a href='https://www.youtube.com/watch?v=0uzv-tEa7SI'>Kepler-90</a>  planets orbit relatively close in -- closer than  Earth's orbit around the Sun -- making them possibly too hot to  <a href='https://apod.nasa.gov/debate/debate100th.html'>harbor life</a>.  However, observations over longer time periods may discover  <a href='https://2.bp.blogspot.com/-4WbbTXMQyrc/TYrKOKNZZBI/AAAAAAACB50/wqhFnRgAIIo/s400/boo_Pomeranian_Dog_19.jpg' >cooler planets</a> further out.  <a href='https://en.wikipedia.org/wiki/Kepler-90'>Kepler-90</a> lies about 2,500 light years away, and at magnitude 14 is visible with a medium-sized telescope toward the constellation of the Dragon  (<a href='https://en.wikipedia.org/wiki/Draco_(constellation)'>Draco</a>).   The  <a href='http://www.searchforlife.net/exoplanet-missions/'>exoplanet-finding mission</a>  <a href='https://tess.gsfc.nasa.gov/'>TESS</a> was launched in 2018, while missions with exoplanet finding capability planned for launch in the next decade include  NASA's  <a href='ap160509.html'>JWST</a> and  <a href='https://wfirst.gsfc.nasa.gov/'>WFIRST</a>.  "
+    },
     "2020/04/27" :{
         "title": "Fresh Tiger Stripes on Saturn's Enceladus ",
        "credit": {
