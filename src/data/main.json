@@ -1,4 +1,15 @@
 {
+    "2020/05/01" :{
+        "title": "A View Toward M106 ",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='https://blog.naver.com/omololee/221208161212'>Joonhwa Lee</a>  "
+       },
+       "link": "https://apod.nasa.gov/apod/image/2005/M106_ORG4_APOD1024c.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label>  Big, bright, beautiful <a href='ap130206.html'>spiral, Messier 106</a> dominates this cosmic vista.  The nearly two degree wide <a href='https://blog.naver.com/omololee/221208161212'>telescopic field of view</a> looks toward the well-trained constellation Canes Venatici, near the handle of the Big Dipper.  Also known as NGC 4258, M106 is about 80,000 light-years across and 23.5 million light-years away, the largest member of the <a href='http://www.atlasoftheuniverse.com/galgrps/cvnii.html'>Canes II</a> galaxy group.  For a far far away galaxy, the distance to M106 is well-known in part because it can be <a href='http://arxiv.org/abs/1307.6031'>directly measured</a> by tracking this galaxy's remarkable maser, or microwave laser emission.  Very rare but naturally occurring, the <a href='https://en.wikipedia.org/wiki/Astrophysical_maser'>maser emission</a> is produced by water molecules in molecular clouds orbiting its <a href='https://www.spacetelescope.org/news/heic1302/'>active galactic nucleus</a>.  Another prominent spiral galaxy on the scene, viewed nearly <a href='https://www.spacetelescope.org/images/potw1503a/'>edge-on, is NGC 4217</a> below and right of M106.  The distance to NGC 4217 is much less well-known, estimated to be about 60 million light-years, but the bright <a href='https://en.wikipedia.org/wiki/Diffraction_spike'>spiky</a> stars are in the foreground, well inside our own Milky Way galaxy.  Even the existence of galaxies beyond the Milky Way was questioned 100 years ago in <a href='https://apod.nasa.gov/debate/debate20.html'>astronomy's Great Debate</a>.  "
+    },
     "2020/04/30" :{
         "title": "Andromeda Island Universe ",
        "credit": {
