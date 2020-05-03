@@ -1,4 +1,15 @@
 {
+    "2020/05/03" :{
+        "title": "A Message from Earth ",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='https://en.wikipedia.org/wiki/Frank_Drake'>Frank Drake</a>  (<a href='https://www.astro.ucsc.edu/'>UCSC</a>) et al.,  <a href='https://www.naic.edu/ao/'>Arecibo Observatory</a>  (<a href='https://astro.cornell.edu/'>Cornell U.</a>); <br> <i> <a href='https://creativecommons.org/licenses/by-sa/3.0/deed.en'>License</a>: </i> <a href='https://commons.wikimedia.org/wiki/File:Arecibo_message.svg' >Arne Nordmann</a> (Wikimedia)  "
+       },
+       "link": "https://apod.nasa.gov/apod/image/2005/Message_Arecibo_960.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label> What are these Earthlings trying to tell us?   The featured message was broadcast from  <a href='ap100713.html'>Earth</a> towards the  <a href='http://asterisk.apod.com/viewtopic.php?f=24&t=18009' >globular</a> star cluster  <a href='ap100527.html'>M13</a> in 1974.    During the dedication of the  <a href='ap981129.html'>Arecibo Observatory</a> - still one of  the largest single radio telescopes in the world - a string of 1's and 0's  representing the diagram was sent.     <a href='https://en.wikipedia.org/wiki/Arecibo_message' >This attempt at extraterrestrial communication</a> was mostly ceremonial -  <a href='ap190818.html'>humanity</a> regularly broadcasts radio and television signals out into space accidentally.    Even were <a href='http://www.youtube.com/watch?v=6qQRQyEodsE' >this message</a> received, M13 is so far away we would  <a href='https://i.pinimg.com/originals/e8/c6/86/e8c686cf79b830a7663432989d423ace.jpg' >have to wait</a> almost 50,000 years to hear an answer.     The <a href= 'https://www.seti.org/seti-institute/project/details/arecibo-message' >featured message</a> gives a few simple facts about humanity and its  knowledge:  from left to right are numbers from one to ten, atoms including  <a href='https://periodic.lanl.gov/1.shtml'>hydrogen</a> and  <a href='https://periodic.lanl.gov/6.shtml'>carbon</a>,  some interesting molecules,  <a href='ap120821.html'>DNA</a>, a human with description, basics of our  <a href='https://solarsystem.nasa.gov/solar-system/our-solar-system/overview/' >Solar System</a>, and basics of the sending telescope.    Several  <a href= 'https://en.wikipedia.org/wiki/Search_for_extraterrestrial_intelligence#Ongoing_radio_searches' >searches for extraterrestrial intelligence</a> are currently underway, including  one where you can <a href='https://setiathome.berkeley.edu/' >use your own home computer</a>.     "
+    },
     "2020/05/02" :{
         "title": "Radio, The Big Ear, and the Wow! Signal ",
        "credit": {
