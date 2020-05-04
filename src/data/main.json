@@ -1,4 +1,15 @@
 {
+    "2020/05/04" :{
+        "title": "Earth Flyby of BepiColombo ",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='https://www.esa.int/'>ESA</a>,  <a href='https://sci.esa.int/web/bepicolombo'>BepiColombo</a>,  <a href='https://sci.esa.int/web/bepicolombo/-/49513-mercury-transfer-module' >MTM</a> "
+       },
+       "link": "https://www.youtube.com/embed/zWFuCO7jyBk?rel=0",
+       "linkType": "iframe",
+       "explanation": "<label class = 'explanation'>Explanation:</label> What it would look like to approach planet Earth?   Such an event was recorded visually in great detail by  <a href='https://www.esa.int'>ESA</a>'s and  <a href='https://global.jaxa.jp/'>JAXA</a>'s robotic  <a href='https://sci.esa.int/web/bepicolombo'>BepiColombo  spacecraft</a> last month as it swung back past Earth on its journey in to the planet  <a href='https://solarsystem.nasa.gov/planets/mercury/overview/'>Mercury</a>.   <a href='https://solarsystem.nasa.gov/planets/earth/in-depth/'>Earth</a>  can be seen rotating on approach as it comes out  from behind the spacecraft's high-gain antenna in <a href= 'http://www.esa.int/Science_Exploration/Space_Science/BepiColombo/BepiColombo_Earth_flyby_in_images' >this nearly 10-hour time-lapse video</a>.   The Earth is so bright that  <a href='https://www.planetary.org/blogs/emily-lakdawalla/2019/why-are-there-no-stars.html' >no background stars</a> are visible.   <a href='https://youtu.be/6t4vtR7t9D8?t=84'>Launched in 2018</a>,  the robotic  <a href='https://en.wikipedia.org/wiki/BepiColombo'>BepiColombo</a> used the  <a href='https://en.wikipedia.org/wiki/Gravity_assist'>gravity</a>  of Earth to adjust its course, the first of  nine planetary flybys over the next seven years -- but the only one  <a href='ap130805.html'>involving Earth</a>.  Scheduled to enter orbit in 2025, BepiColombo will take images and data of the  <a href='ap170723.html'>surface</a> and magnetic field of  <a href='ap171211.html'>Mercury</a> in an effort to  <a href='https://i.imgflip.com/uop2m.jpg'>better understand</a> the  <a href='https://mobile.arc.nasa.gov/public/iexplore/missions/pages/yss/november.html' >early evolution of our Solar System</a> and its innermost planet.     "
+    },
     "2020/05/03" :{
         "title": "A Message from Earth ",
        "credit": {
