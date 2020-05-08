@@ -1,4 +1,15 @@
 {
+    "2020/05/08" :{
+        "title": "Long Tailed Comet SWAN ",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='http://www.damianpeach.com/'>D. Peach</a>, <a href='http://www.chilescope.com/'>Chilescope team</a>  "
+       },
+       "link": "https://apod.nasa.gov/apod/image/2005/c2020_f8_2020_05_02dp_1024.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label>  Blowing in the solar wind the spectacular ion tail of <a href='https://en.wikipedia.org/wiki/C/2020_F8_(SWAN)'>Comet SWAN (C/2020 F8)</a> extends far across this 10 degree wide telephoto field of view.  Captured on May 2 its greenish <a href='ap181115.html'>coma</a> was about 6 light-minutes from Earth.  The pretty background starfield lies near the border of the constellations Cetus and Aquarius.  This comet SWAN was discovered at home by <a href='https://www.abc.net.au/news/2020-05-02/coronavirus-restrictions-lead-to-victorian-man-discovering-comet/12181100'>Australian amateur Michael Mattiazzo</a> by checking images from the Sun-staring <a href='https://www.nasa.gov/mission_pages/soho/index.html'>SOHO spacecraft's</a> SWAN (Solar Wind ANisotropies) camera.  The comet has now become just visible to the naked-eye as it sweeps <a href='https://skyandtelescope.org/astronomy-news/comet-swan-expected-to-put-on-a-splendid-show/'>from southern to northern skies</a>.  Appearing in morning twilight near the eastern horizon, Comet SWAN will make its closest approach to planet Earth on May 12 and reach perihelion on May 27.  <br><br> "
+    },
     "2020/05/07" :{
         "title": "Analemma of the Moon ",
        "credit": {
