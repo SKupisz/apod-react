@@ -1,4 +1,15 @@
 {
+    "2020/05/12" :{
+        "title": "Lyrid Meteors from the Constellation Lyra ",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='http://www.astronom.cz/horalek/?page_id=20' >Petr Hor&aacute;lek</a>   "
+       },
+       "link": "https://apod.nasa.gov/apod/image/2005/Lyrids_Horalek_960.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label> Where are all of these meteors coming from?    In terms of direction on the sky, the pointed answer is the <a href='http://stars.astro.illinois.edu/sow/const.html' >constellation</a> of Small Harp (Lyra).    That is why the famous meteor shower that peaks every April is known as the <a href='ap150813.html'>Lyrids</a> -- the  <a href='https://www.youtube.com/watch?v=6LfgZvsh5f0'>meteors</a>  all appear to came from a <a href='ap070812.html'>radiant</a> toward  <a href='https://www.meteorshowers.org/view/Lyrids'>Lyra</a>.  In terms of parent body, though, the  <a href='https://en.wikipedia.org/wiki/Meteoroid#Meteor'>sand-sized debris</a>  that makes up the Lyrid meteors come from  <a href='https://en.wikipedia.org/wiki/C/1861_G1_(Thatcher)'>Comet Thatcher</a>.  The comet follows a well-defined orbit around our  <a href='https://solarsystem.nasa.gov/solar-system/sun/overview/'>Sun</a>,  and the part of the orbit that  <a href=' http://3.bp.blogspot.com/-vzf3tW7n2VM/T5C-PyI7DII/AAAAAAAACZY/UCr8FgmMQxE/s400/bigstock-Dog-with-globe-Our-world-is-i-25891268.JPG' >approaches Earth</a> is superposed in front of Lyra.  Therefore, when Earth crosses this orbit, the <a href='https://en.wikipedia.org/wiki/Radiant_(meteor_shower)' >radiant</a> point of falling debris appears in Lyra.  <a href='http://www.astronom.cz/horalek/?p=5695'>Featured here</a>, a composite  image containing over 33 meteors (can you find them all?) from last month's   <a href='https://en.wikipedia.org/wiki/Lyrids' >Lyrid meteor shower</a> shows several <a href='ap200423.html'>bright meteor</a>s that <a href='ap090302.html'>streaked</a> over a shore of Se Lake in the  <a href='https://en.wikipedia.org/wiki/Czech_Republic'>Czech Republic</a>.  Also visible are the bright stars  <a href='ap150508.html'>Vega</a> and  <a href='https://en.wikipedia.org/wiki/Altair'>Altair</a>, the planet  <a href='ap190908.html'>Jupiter</a>, and the central band of our  <a href='https://solarsystem.nasa.gov/resources/285/the-milky-way-galaxy/' >Milky Way Galaxy</a>.   "
+    },
     "2020/05/11" :{
         "title": "Behind Betelgeuse ",
        "credit": {
