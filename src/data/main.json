@@ -1,4 +1,15 @@
 {
+    "2020/05/14" :{
+        "title": "Comet Halley vs Comet SWAN ",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='http://www.lucperrot.fr/?auteur'>Luc Perrot</a> (<a href='http://twanight.org/Perrot'>TWAN</a>)  "
+       },
+       "link": "https://apod.nasa.gov/apod/image/2005/SWAN1_perrot.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label>  <a href='https://www.youtube.com/watch?v=6wa69Hp2uPc'>The pre-dawn hours of May 3rd were moonless</a> as grains of cosmic dust streaked through southern skies above Reunion Island.  Swept up as planet Earth plowed through dusty debris streams left behind periodic <a href='https://en.wikipedia.org/wiki/Halley%27s_Comet'>Comet 1/P Halley</a>, the annual meteor shower is <a href='https://solarsystem.nasa.gov/asteroids-comets-and-meteors/meteors-and-meteorites/eta-aquarids/in-depth/'>known as the Eta Aquarids</a>.  This inspired exposure captures a bright aquarid meteor flashing left to right over a sea of clouds.  The meteor streak points back to the shower's radiant in the constellation Aquarius, well above the eastern horizon and off the top of the frame.  Known for speed Eta Aquarid meteors move fast, entering the atmosphere at about 66 kilometers per second, visible at altitudes of 100 kilometers or so.  Then about 6 light-minutes from Earth, the <a href='ap200508.html'>pale greenish coma and long tail</a> of Comet C/2020 F8 SWAN were not to be left out of the celestial scene, posing above the volcanic peaks left of center.  Now in the northern sky's morning twilight near the eastern horizon Comet SWAN has not become as <a href='https://www.space.com/comet-swan-may-be-dimming.html'>bright as anticipated though</a>.  This first time comet made its closest approach to planet Earth only two days ago and reaches perihelion on May 27.  "
+    },
     "2020/05/13" :{
         "title": "Jupiter in Infrared from Gemini ",
        "credit": {
