@@ -1,4 +1,15 @@
 {
+    "2020/05/15" :{
+        "title": "Galaxy Wars: M81 and M82 ",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='http://www.stargazer-observatory.com/'>Dietmar Hager</a>, <a href='http://astrogrossi.de/'>Torsten Grossmann</a>  "
+       },
+       "link": "https://apod.nasa.gov/apod/image/2005/M81-82_1024.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label>  These two galaxies are far far away, 12 million light-years distant toward the northern constellation of the Great Bear.  On the left, with grand spiral arms and bright yellow core is spiral galaxy <a href='ap190417.html'>M81</a>, some 100,000 light-years across.   On the right marked by red gas and dust clouds, is irregular galaxy <a href='ap190723.html'>M82</a>.    The pair have been locked in gravitational combat for a billion years.  <a href='https://phys.org/news/2019-11-astronomers-stellar-halo.html'>Gravity from each galaxy</a> has profoundly affected the other during a series of cosmic close encounters.    Their last go-round lasted about 100 million years and likely raised density waves rippling around  M81, resulting in the richness of  <a href='http://www.youtube.com/watch?v=0seVq5ydqzk'>M81</a>'s spiral arms.    <a href='https://hubblesite.org/contents/news-releases/2001/news-2001-08.html'>M82</a> was left  with violent star forming regions and  colliding gas clouds so energetic the galaxy glows in X-rays.    In the next few billion years, their continuing gravitational encounters will result in a merger, and a <a href='https://science.nasa.gov/science-news/science-at-nasa/2012/31may_andromeda/'>single galaxy will remain</a>.  "
+    },
     "2020/05/14" :{
         "title": "Comet Halley vs Comet SWAN ",
        "credit": {
