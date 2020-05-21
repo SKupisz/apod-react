@@ -1,4 +1,15 @@
 {
+    "2020/05/21" :{
+        "title": "Phases of Venus ",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='https://www.instagram.com/richaddisastro/'>Richard Addis</a>  "
+       },
+       "link": "https://apod.nasa.gov/apod/image/2005/PhasesVenusAddis.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label>  <a href='https://solarsystem.nasa.gov/resources/482/galileos-phases-of-venus-and-other-planets/'>Just as</a> the Moon goes <a href='https://en.wikipedia.org/wiki/ Galileo_Galilei#Venus.2C_Saturn.2C_and_Neptune'>through phases</a>, Venus' visible sunlit hemisphere waxes and wanes.  This composite of <a href='ap190406.html'>backyard</a> telescopic images illustrates the steady changes for <a href='https://earthsky.org/tonight/venus-final-month-in-the-evening-sky'>Venus during</a> its current stint as our evening star, as the inner planet grows larger but narrows to a thin crescent.  Images from bottom to top were taken during 2020 on dates February 27, March 20, April 14, April 24, May 8, and May 14.  Gliding along its interior orbit between Earth and Sun, Venus grows larger during that period because it is approaching planet Earth.  Its crescent narrows, though, as Venus swings closer to our line-of-sight to the Sun.  Closest to the Earth-Sun line but passing about 1/2 degree north of the Sun on June 3, Venus will reach a (non-judgmental) <a href='http://astronomy.swin.edu.au/cosmos/I/Inferior+Conjunction'>inferior conjunction</a>.  Soon after, Venus will shine clearly above the eastern horizon in predawn skies as planet Earth's <a href='https://history.nasa.gov/SP-424/ch1.htm'>morning star</a>.  After sunset tonight look for Venus above the western horizon and you can also spot <a href='https://earthsky.org/?p=329974'>elusive innermost planet Mercury</a>.  "
+    },
     "2020/05/20" :{
         "title": "Moon, Mars, Saturn, Jupiter, Milk Way ",
        "credit": {
