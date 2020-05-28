@@ -1,4 +1,15 @@
 {
+    "2020/05/28" :{
+        "title": "Reflecting the International Space Station ",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='mailto: bigskyhelphoto [at] gmail [dot] com'>Helmut Schnieder</a>  "
+       },
+       "link": "https://apod.nasa.gov/apod/image/2005/ISS-Lighttrail-Reflection_invert.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label>  Still bathed in sunlight, the <a href='https://blogs.nasa.gov/commercialcrew/'>International Space Station</a> arced through the evening sky over lake <a href='https://goo.gl/maps/hykHy38rtHxdSPT59'>Wulfsahl-Gusborn</a> in northern Germany, just after sunset on March 25.  The familiar constellation of Orion can be seen left of the trail of the orbital station's bright passage.  On the right, Venus is the brilliant evening star above the western horizon.  With the camera fixed to a tripod, this scene was captured in a series of five exposures.  How can you tell?  The short time delay between the end of one exposure and the beginning of the next leaves small gaps in the <a href='ap080604.html'>ISS light trail</a>.  Look closely and you'll also see that the sky that appears to be above the horizon is actually a reflection though.  The final image has been vertically inverted and the night skyscape recorded in the <a href='image/2005/ISS-Lighttrail-Reflection.jpg'>mirror-like waters of the small lake</a>.  "
+    },
     "2020/05/27" :{
         "title": "Earth and Moon through Saturn's Rings ",
        "credit": {
