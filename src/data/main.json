@@ -1,4 +1,15 @@
 {
+    "2020/05/31" :{
+        "title": "Aurora over Sweden ",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='http://www.astrofotografen.se/'>G&ouml;ran Strand</a> "
+       },
+       "link": "https://apod.nasa.gov/apod/image/2005/AuroraSweden_Strand_960.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label> It was bright and green and stretched across the sky.  This striking aurora display was captured in 2016 just outside of  <a href='https://en.wikipedia.org/wiki/%C3%96stersund'>stersund</a>,  <a href='https://en.wikipedia.org/wiki/Sweden'>Sweden</a>.  Six photographic fields were merged to create the featured panorama spanning almost 180 degrees.   Particularly striking aspects of this  <a href='https://spaceplace.nasa.gov/aurora/en/'>aurora</a>  include its sweeping arc-like shape and its stark definition.   <a href='https://en.wikipedia.org/wiki/Storsj%C3%B6n'>Lake</a>  <a href='https://www.youtube.com/watch?v=1KqryCRpT_s'>Storsjn</a> is seen in the foreground, while several familiar constellations and the star  <a href='ap150602.html'>Polaris</a> are visible through the aurora,  far in the background.   Coincidently, the  <a href='https://www.youtube.com/watch?v=rMfUVfjHnKc'>aurora</a>  appears to avoid the Moon visible on the lower left.   The aurora appeared a  <a href='https://spaceweather.com/archive.php?view=1&day=12&month=04&year=2016' >day after</a> a  <a href='https://solarscience.msfc.nasa.gov/feature3.shtml'>large hole</a>  opened in the <a href='ap170920.html'>Sun's corona</a>  allowing particularly energetic particles to flow out into the  <a href='ap190520.html'>Solar System</a>.   The <a href='http://www.webexhibits.org/causesofcolor/4D.html' >green color of the aurora</a> is caused by  <a href='https://www.chemicool.com/elements/oxygen.html'>oxygen</a>  atoms recombining with ambient  <a href='https://www-spof.gsfc.nasa.gov/Education/whelect.html'>electrons</a>  high in the  <a href='https://www.nasa.gov/mission_pages/sunearth/science/atmosphere-layers2.html' >Earth's atmosphere</a>.   "
+    },
     "2020/05/30" :{
         "title": "Green Flashes: Sun, Moon, Venus, Mercury ",
        "credit": {
