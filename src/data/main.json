@@ -1,4 +1,15 @@
 {
+    "2020/06/01" :{
+        "title": "The Lively Center of the Lagoon Nebula ",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='https://www.nasa.gov'>NASA</a>,  <a href='https://www.esa.int'>ESA</a>, <a href='https://www.nasa.gov/mission_pages/hubble/main/index.html'>Hubble</a>; <i> Processing & Copyright: </i> <a href='https://www.astrobin.com/users/Godiex/'>Diego Gravinese</a> "
+       },
+       "link": "https://apod.nasa.gov/apod/image/2006/LagoonCenter_HubbleGravinese_960.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label> The center of the Lagoon Nebula is a  <a href='https://youtu.be/bjb7QtMEBUg?t=144'>whirlwind</a>  of spectacular star formation.  Visible near the image center, at least two long funnel-shaped clouds,  each roughly half a <a href= 'http://starchild.gsfc.nasa.gov/docs/StarChild/questions/question19.html' >light-year</a> long, have been formed by extreme  <a href='ap000318.html'>stellar winds</a>  and intense  <a href='https://science.nasa.gov/ems/10_ultravioletwaves'>energetic starlight</a>.    A tremendously bright nearby star,  <a href='https://ui.adsabs.harvard.edu/abs/1995ApJ...445L.153S/abstract' >Hershel 36</a>, lights the area.    Vast walls of <a href='ap010813.html'>dust</a> hide and  <a href='http://en.wikipedia.org/wiki/Interstellar_reddening'>redden</a>  other hot young stars.    As energy from these stars pours into the  <a href='ap010914.html'>cool dust</a> and gas,  large temperature differences in  <a href='http://imgsrc.hubblesite.org/hu/db/1996/38/images/c/formats/large_web.jpg' >adjoining regions</a> can be created generating  <a href='http://en.wikipedia.org/wiki/Wind_shear'>shearing  winds</a> which may cause the  <a href='https://hubblesite.org/contents/media/images/1996/38/462-Image.html' >funnels</a>.    <a href='https://www.astrobin.com/7fxl2t/0/?nc=user' >This picture</a>, spanning about 15 light years,  features two colors detected by the  <a href=' ap010806.html'>orbiting Hubble Space Telescope</a>.    The  <a href='ap021006.html'>Lagoon Nebula</a>, also known as  <a href='https://en.wikipedia.org/wiki/Lagoon_Nebula'>>M8</a>, lies about 5000  <a href='http://www.glyphweb.com/esky/concepts/lightyear.html'>light  years</a> distant toward the  <a href='http://www.comfychair.org/ćmbell/myth/myth.html'>constellation</a> of the Archer  <a href='https://stardate.org/astro-guide/sagittarius-archer-0' >Sagittarius</a>.   "
+    },
     "2020/05/31" :{
         "title": "Aurora over Sweden ",
        "credit": {
