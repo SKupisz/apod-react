@@ -1,4 +1,15 @@
 {
+    "2020/06/03" :{
+        "title": "The Dance of Venus and Earth ",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='https://twitter.com/physicsJ'>James O'Donoghue</a>  (<a href='http://global.jaxa.jp/'>JAXA</a>); <i> Data: </i>  <a href='https://www.nasa.gov/'>NASA</a>,  <a href='https://ssd.jpl.nasa.gov/horizons.cgi'>HORIZONS</a>; <i> <a href='https://en.wikipedia.org/wiki/Hat_tip#Metaphor'>h/t</a>: </i>  <a href='mailto: josefch at@ @gmail .dot. com'>Josef Chlachula</a> "
+       },
+       "link": "https://www.youtube.com/embed/Cd5a5KdPxQc?rel=0",
+       "linkType": "iframe",
+       "explanation": "<label class = 'explanation'>Explanation:</label> Every time Venus passes the Earth, it shows the same face.   This  <a href='https://www-spof.gsfc.nasa.gov/stargaze/Svenus.htm' >remarkable fact</a> has been known for only  <a href='http://articles.adsabs.harvard.edu//full/2007JBAA..117..265M/0000265.000.html' >about 50 years</a>, ever since  <a href='https://en.wikipedia.org/wiki/Radio_telescope'>radio telescope</a>s  have been able to peer beneath  <a href='ap040516.html'>Venus' thick clouds</a> and track its slowly rotating surface.   This  <a href='https://astronomy.swin.edu.au/cosmos/I/Inferior+Conjunction' >inferior conjunction</a> -- when Venus and Earth are the closest --  <a href='https://in-the-sky.org/news.php?id=20200603_11_100'>occurs today</a>.   The <a href='https://www.youtube.com/watch?v=Cd5a5KdPxQc'>featured animation</a>  shows the positions of the Sun, Venus and Earth between 2010-2023 based on  <a href='https://ssd.jpl.nasa.gov/horizons.cgi'>NASA-downloaded data</a>,  while a mock yellow 'arm' has been fixed to the ground on Venus to indicate rotation.   The reason for this unusual 1.6-year resonance  is the  <a href='https://en.wikipedia.org/wiki/Tidal_locking' >gravitational influence</a> that Earth has on Venus, which  <a href='https://www.sciencedirect.com/science/article/abs/pii/0019103569900682' >surprisingly dominates the Sun's tidal effect</a>.   If Venus could be seen through the  <a href='https://solarsystem.nasa.gov/solar-system/sun/overview/'>Sun</a>'s glare today,  it would show just a  <a href='ap200521.html'>very slight sliver</a> of a  <a href='ap140227.html'>crescent</a>.  Although previously  <a href='ap200529.html'>visible in the evening sky</a>, starting tomorrow,  <a href='https://solarsystem.nasa.gov/planets/venus/overview/'>Venus</a>  will appear in the morning sky --  on the other side of the Sun as viewed from Earth.   "
+    },
     "2020/06/02" :{
         "title": "Novel Coronavirus Attacks Humanity ",
        "credit": {
