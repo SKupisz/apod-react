@@ -1,4 +1,15 @@
 {
+    "2020/06/08" :{
+        "title": "Atmospheric Ring of Venus ",
+       "credit": {
+           "subjects": [],
+           "links": [],
+       "altLinks": "<a href='http://www.digitalsky.org.uk/about'>Pete Lawrence</a>  (<a href='http://www.digitalsky.org.uk/'>Digital Sky</a>) "
+       },
+       "link": "https://apod.nasa.gov/apod/image/2006/VenusFireRing_Lawrence_960.jpg",
+       "linkType": "image",
+       "explanation": "<label class = 'explanation'>Explanation:</label> Why is Venus surrounded by a bright ring?  Sometimes called a  <a href='ap090125.html'>ring of fire</a>, this  <a href='http://www.w7ftt.net/venus1.html'>rare ring</a>  is caused by the Sun's light being visible all around an object.  Usually seen  <a href='ap191225.html'>around the Moon</a> during an annular solar eclipse,  the ring of fire is also visible when either  <a href='ap180204.html'>Venus</a> or  <a href='ap191202.html'>Mercury</a>   <a href='ap120611.html'>cross the face</a> of our Sun.   In the  <a href='https://twitter.com/Avertedvision/status/1268109604493426690/photo/1' >featured pictured</a> taken last week, though,  <a href='ap200603.html'>Venus did not pass</a> directly in front of the Sun --  the complete atmospheric ring was caused by sunlight  <a href='https://en.wikipedia.org/wiki/Refraction'>refracting</a> through Venus'  <a href='https://solarsystem.nasa.gov/planets/venus/in-depth/#atmosphere_otp' >thick atmosphere</a>.   Venus passed within one degree of  <a href='https://solarsystem.nasa.gov/solar-system/sun/overview/'>the Sun</a> during its  <a href='https://astronomy.swin.edu.au/cosmos/I/Inferior+Conjunction'>inferiorconjunction</a>,  as it moved from the evening to the morning sky.  The extreme brightness of the nearby Sun made capturing such an image very difficult -- the featured image was only made possible by using a temporary filter to block direct sunlight.  The image was captured from  <a href='https://www.youtube.com/watch?v=_Oh449g7kas'>Thorton</a>,  <a href='https://en.wikipedia.org/wiki/Leicestershire'>Leicestershire</a>,  <a href='https://en.wikipedia.org/wiki/United_Kingdom'>UK</a>.  The pervasive  <a href='https://spaceplace.nasa.gov/blue-sky/en/'>blue sky glow</a>  indicates that the image was actually captured  <a href='ap061030.html'>during the day</a>.    "
+    },
     "2020/06/07" :{
         "title": "Halo of the Cat's Eye ",
        "credit": {
